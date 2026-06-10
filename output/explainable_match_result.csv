@@ -1,0 +1,1279 @@
+resume_id,resume_name,job_id,job_title,company,matched_skills,missing_skills,extra_skills,recommendation_reason,skill_score,education_score,experience_score,city_score,salary_score,cert_score,semantic_sim,final_score
+R001,张伟,J001,后端开发工程师,杭州云智科技,Docker;Git;Java;Linux;Python;SQL,,Pandas;TensorFlow;数据分析;机器学习,"技能匹配较高，共同技能包括 Docker, Git, Java, Linux, Python。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",100.0,100.0,100.0,20.0,100.0,100.0,32.94,67.68
+R001,张伟,J003,数据分析师,上海数联科技有限公司,Python;SQL;数据分析,Excel;可视化,Docker;Git;Java;Linux;Pandas;TensorFlow;机器学习,"技能匹配较高，共同技能包括 Python, SQL, 数据分析。
+建议补充技能：Excel, 可视化，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",85.0,100.0,100.0,100.0,100.0,100.0,11.33,62.8
+R001,张伟,J015,供应链数据分析师,上海京东物流,Python;SQL;数据分析,PowerBI;Excel,Docker;Git;Java;Linux;Pandas;TensorFlow;机器学习,"技能匹配较高，共同技能包括 Python, SQL, 数据分析。
+建议补充技能：PowerBI, Excel，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",85.0,100.0,100.0,100.0,100.0,25.0,10.71,58.93
+R001,张伟,J009,DevOps工程师,上海蚂蚁金服,Docker;Linux;Python,Kubernetes;CI/CD;Shell,Git;Java;Pandas;SQL;TensorFlow;数据分析;机器学习,"技能匹配较高，共同技能包括 Docker, Linux, Python。
+建议补充技能：Kubernetes, CI/CD, Shell，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",75.0,100.0,100.0,100.0,0.0,25.0,11.02,55.99
+R001,张伟,J014,全栈开发工程师,广州腾讯系创业公司,Docker;Git;Python,React;MySQL;Vue.js,Java;Linux;Pandas;SQL;TensorFlow;数据分析;机器学习,"技能匹配较高，共同技能包括 Docker, Git, Python。
+建议补充技能：React, MySQL, Vue.js，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",75.0,100.0,100.0,20.0,100.0,100.0,11.65,55.86
+R001,张伟,J004,Java开发工程师,南昌智创软件,Git;Java;Linux,Spring Boot;MySQL,Pandas;Python;SQL;TensorFlow;数据分析;机器学习,"技能匹配较高，共同技能包括 Git, Java, Linux。
+建议补充技能：Spring Boot, MySQL，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",85.0,100.0,100.0,20.0,100.0,25.0,14.22,55.63
+R001,张伟,J018,运营数据分析师,杭州阿里巴巴,Python;SQL;数据分析,Excel;AARRR;PowerPoint,Docker;Git;Java;Linux;Pandas;TensorFlow;机器学习,"技能匹配较高，共同技能包括 Python, SQL, 数据分析。
+建议补充技能：Excel, AARRR, PowerPoint，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",75.0,100.0,100.0,20.0,100.0,100.0,9.97,55.53
+R001,张伟,J002,算法工程师（机器学习）,深圳AI研究院,Python;TensorFlow;数据分析;机器学习,深度学习;PyTorch,Docker;Git;Java;Linux;Pandas;SQL,"技能匹配较高，共同技能包括 Python, TensorFlow, 数据分析, 机器学习。
+建议补充技能：深度学习, PyTorch，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历略低于要求，但可考虑。",91.67,75.0,100.0,20.0,0.0,25.0,17.48,54.55
+R001,张伟,J006,测试工程师,深圳华为外包中心,Linux;SQL,测试基础;Selenium;Postman,Docker;Git;Java;Pandas;TensorFlow;数据分析;机器学习,"技能匹配较高，共同技能包括 Linux, SQL。
+建议补充技能：测试基础, Selenium, Postman，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",65.0,100.0,100.0,20.0,78.57,25.0,7.15,48.2
+R001,张伟,J008,产品经理（数据产品）,北京字节数据,SQL;数据分析,产品设计;PRD;Axure,Docker;Git;Java;Linux;Pandas;TensorFlow,"技能匹配较高，共同技能包括 SQL, 数据分析。
+建议补充技能：产品设计, PRD, Axure，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",65.0,100.0,100.0,20.0,100.0,25.0,7.12,48.2
+R002,李娜,J004,Java开发工程师,南昌智创软件,Java;Linux;MySQL;Spring Boot,Git,,"技能匹配较高，共同技能包括 Java, Linux, MySQL, Spring Boot。
+建议补充技能：Git，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",80.0,100.0,100.0,20.0,100.0,100.0,23.09,59.68
+R002,李娜,J001,后端开发工程师,杭州云智科技,Docker;Java;Linux,Git;SQL;Python,MySQL,"技能匹配较高，共同技能包括 Docker, Java, Linux。
+建议补充技能：Git, SQL, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",55.0,100.0,100.0,20.0,100.0,25.0,13.79,46.55
+R002,李娜,J014,全栈开发工程师,广州腾讯系创业公司,Docker;MySQL,Git;React;Python;Vue.js,Java;Kafka;Linux;Redis;Spring Boot;微服务,"技能匹配较高，共同技能包括 Docker, MySQL。
+建议补充技能：Git, React, Python, Vue.js，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",58.33,100.0,100.0,20.0,100.0,25.0,7.9,46.36
+R002,李娜,J006,测试工程师,深圳华为外包中心,Linux,测试基础;SQL;Selenium;Postman,Docker;Java;Kafka;MySQL;Redis;Spring Boot;微服务,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：测试基础, SQL, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,4.3,41.62
+R002,李娜,J009,DevOps工程师,上海蚂蚁金服,Docker;Linux,Kubernetes;CI/CD;Shell;Python,Java;Kafka;MySQL;Redis;Spring Boot;微服务,"技能匹配较高，共同技能包括 Docker, Linux。
+建议补充技能：Kubernetes, CI/CD, Shell, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,50.0,20.0,0.0,25.0,8.9,41.55
+R002,李娜,J008,产品经理（数据产品）,北京字节数据,,数据分析;PRD;SQL;Axure;产品设计,Docker;Java;Kafka;Linux;MySQL;Redis;Spring Boot;微服务,"建议补充技能：数据分析, PRD, SQL, Axure, 产品设计，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,100.0,0.0,25.0,0.0,38.75
+R002,李娜,J007,嵌入式软件工程师,深圳拓疆机器人,Linux,RTOS;嵌入式C;C++;MCU开发,Docker;Java;Kafka;MySQL;Redis;Spring Boot;微服务,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：RTOS, 嵌入式C, C++, MCU开发，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,66.67,20.0,0.0,25.0,3.59,38.15
+R002,李娜,J012,安全工程师（渗透测试）,北京奇安信,,SQL注入;BurpSuite;渗透测试;Nmap;Python;XSS,Docker;Java;Kafka;Linux;MySQL;Redis;Spring Boot;微服务,"建议补充技能：SQL注入, BurpSuite, 渗透测试, Nmap, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,66.67,100.0,0.0,25.0,0.44,35.51
+R002,李娜,J011,HR招聘专员,南昌智联招聘,,招聘;沟通;HR系统;Excel;面试,Docker;Java;Kafka;Linux;MySQL;Redis;Spring Boot;微服务,"建议补充技能：招聘, 沟通, HR系统, Excel, 面试，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,20.0,0.0,25.0,0.43,34.84
+R002,李娜,J003,数据分析师,上海数联科技有限公司,,数据分析;可视化;SQL;Python;Excel,Docker;Java;Kafka;Linux;MySQL;Redis;Spring Boot;微服务,"建议补充技能：数据分析, 可视化, SQL, Python, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,25.0,0.0,34.75
+R003,王强,J019,视觉算法工程师,深圳大疆创新,CUDA;OpenCV;PyTorch;Python,计算机视觉;深度学习,Keras;Linux;Scala;Spark;TensorFlow,"技能匹配较高，共同技能包括 CUDA, OpenCV, PyTorch, Python。
+建议补充技能：计算机视觉, 深度学习，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",91.67,100.0,100.0,100.0,100.0,100.0,18.22,66.2
+R003,王强,J002,算法工程师（机器学习）,深圳AI研究院,PyTorch;Python;TensorFlow,机器学习;深度学习;数据分析,CUDA;Keras;Linux;OpenCV;Scala,"技能匹配较高，共同技能包括 PyTorch, Python, TensorFlow。
+建议补充技能：机器学习, 深度学习, 数据分析，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",75.0,100.0,100.0,100.0,100.0,100.0,12.13,59.96
+R003,王强,J001,后端开发工程师,杭州云智科技,Linux;Python,Git;Java;SQL;Docker,CUDA;Keras;OpenCV;PyTorch;Scala;Spark;TensorFlow,"技能匹配较高，共同技能包括 Linux, Python。
+建议补充技能：Git, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,20.0,25.0,25.0,8.13,46.4
+R003,王强,J006,测试工程师,深圳华为外包中心,Linux,测试基础;SQL;Selenium;Postman,CUDA;Keras;OpenCV;PyTorch;Scala;Spark;TensorFlow,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：测试基础, SQL, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,100.0,0.0,25.0,3.77,45.52
+R003,王强,J007,嵌入式软件工程师,深圳拓疆机器人,Linux,RTOS;嵌入式C;C++;MCU开发,CUDA;Keras;OpenCV;PyTorch;Python;Scala;Spark;TensorFlow,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：RTOS, 嵌入式C, C++, MCU开发，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,100.0,100.0,25.0,3.75,45.51
+R003,王强,J009,DevOps工程师,上海蚂蚁金服,Linux;Python,Kubernetes;Docker;CI/CD;Shell,CUDA;Keras;OpenCV;PyTorch;Scala;Spark;TensorFlow,"技能匹配较高，共同技能包括 Linux, Python。
+建议补充技能：Kubernetes, Docker, CI/CD, Shell，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",58.33,100.0,75.0,20.0,100.0,25.0,7.02,43.68
+R003,王强,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,CUDA;Keras;Linux;OpenCV;PyTorch;Scala;Spark;TensorFlow,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,5.23,41.81
+R003,王强,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,CUDA;Keras;Linux;OpenCV;PyTorch;Scala;Spark;TensorFlow,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,25.0,25.0,4.13,41.59
+R003,王强,J004,Java开发工程师,南昌智创软件,Linux,Git;Java;MySQL;Spring Boot,CUDA;Keras;OpenCV;PyTorch;Python;Scala;Spark;TensorFlow,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：Git, Java, MySQL, Spring Boot，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,4.06,41.57
+R003,王强,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,CUDA;Keras;Linux;OpenCV;PyTorch;Scala;Spark;TensorFlow,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,59.09,25.0,4.49,40.66
+R004,陈静,J003,数据分析师,上海数联科技有限公司,Excel;Python;SQL,数据分析;可视化,MySQL;财务分析,"技能匹配较高，共同技能包括 Excel, Python, SQL。
+建议补充技能：数据分析, 可视化，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历略低于要求，但可考虑。",70.0,75.0,100.0,20.0,0.0,100.0,17.73,51.85
+R004,陈静,J015,供应链数据分析师,上海京东物流,Excel;PowerBI;Python;SQL,数据分析,MySQL;财务分析,"技能匹配较高，共同技能包括 Excel, PowerBI, Python, SQL。
+建议补充技能：数据分析，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历略低于要求，但可考虑。",90.0,75.0,50.0,20.0,0.0,25.0,25.67,50.71
+R004,陈静,J018,运营数据分析师,杭州阿里巴巴,Excel;Python;SQL,数据分析;PowerPoint;AARRR,MySQL;PowerBI;Tableau;财务分析,"技能匹配较高，共同技能包括 Excel, Python, SQL。
+建议补充技能：数据分析, PowerPoint, AARRR，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历略低于要求，但可考虑。",70.0,75.0,50.0,20.0,0.0,100.0,15.91,46.48
+R004,陈静,J011,HR招聘专员,南昌智联招聘,Excel,HR系统;招聘;面试;沟通,MySQL;PowerBI;Python;SQL;Tableau;财务分析,"技能匹配较高，共同技能包括 Excel。
+建议补充技能：HR系统, 招聘, 面试, 沟通，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,100.0,100.0,25.0,3.93,45.55
+R004,陈静,J006,测试工程师,深圳华为外包中心,SQL,测试基础;Linux;Selenium;Postman,Excel;MySQL;PowerBI;Tableau;财务分析,"技能匹配较高，共同技能包括 SQL。
+建议补充技能：测试基础, Linux, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,16.67,25.0,4.43,41.65
+R004,陈静,J014,全栈开发工程师,广州腾讯系创业公司,MySQL;Python,Git;React;Docker;Vue.js,Excel;PowerBI;SQL;Tableau;财务分析,"技能匹配较高，共同技能包括 MySQL, Python。
+建议补充技能：Git, React, Docker, Vue.js，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",58.33,75.0,50.0,20.0,0.0,100.0,8.26,41.43
+R004,陈静,J001,后端开发工程师,杭州云智科技,Python;SQL,Git;Java;Docker;Linux,Excel;MySQL;PowerBI;Tableau;财务分析,"技能匹配较高，共同技能包括 Python, SQL。
+建议补充技能：Git, Java, Docker, Linux，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",58.33,75.0,50.0,20.0,0.0,100.0,8.17,41.41
+R004,陈静,J004,Java开发工程师,南昌智创软件,MySQL,Git;Java;Spring Boot;Linux,Excel;PowerBI;Python;SQL;Tableau;财务分析,"技能匹配较高，共同技能包括 MySQL。
+建议补充技能：Git, Java, Spring Boot, Linux，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",45.0,75.0,50.0,100.0,0.0,25.0,4.66,36.95
+R004,陈静,J017,教育产品经理,南昌新东方在线,SQL,产品设计;数据分析;Axure;在线教育,Excel;MySQL;PowerBI;Tableau;财务分析,"技能匹配较高，共同技能包括 SQL。
+建议补充技能：产品设计, 数据分析, Axure, 在线教育，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",45.0,75.0,50.0,100.0,0.0,25.0,4.18,36.85
+R004,陈静,J010,UI设计师,杭州网易创意,,Sketch;Figma;用户研究;UI设计;Adobe XD,Excel;MySQL;PowerBI;Python;SQL;Tableau;财务分析,"建议补充技能：Sketch, Figma, 用户研究, UI设计, Adobe XD，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",25.0,75.0,100.0,20.0,0.0,100.0,0.0,34.75
+R005,刘洋,J007,嵌入式软件工程师,深圳拓疆机器人,C++;RTOS;嵌入式C,Linux;MCU开发,Altium Designer;FPGA;Qt;Verilog,"技能匹配较高，共同技能包括 C++, RTOS, 嵌入式C。
+建议补充技能：Linux, MCU开发，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",80.0,100.0,100.0,100.0,100.0,100.0,14.66,61.98
+R005,刘洋,J013,机械结构工程师,深圳比亚迪工程,,材料工艺;AutoCAD;机械制图;ANSYS;SolidWorks,Altium Designer;C++;CAN总线;FPGA;Qt;RTOS;Verilog;嵌入式C,"建议补充技能：材料工艺, AutoCAD, 机械制图, ANSYS, SolidWorks，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,100.0,100.0,100.0,0.15,42.53
+R005,刘洋,J001,后端开发工程师,杭州云智科技,,Git;Linux;Java;SQL;Docker;Python,Altium Designer;C++;CAN总线;FPGA;Qt;RTOS;Verilog;嵌入式C,"建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,100.0,0.59,38.62
+R005,刘洋,J003,数据分析师,上海数联科技有限公司,,数据分析;可视化;SQL;Python;Excel,Altium Designer;C++;CAN总线;FPGA;Qt;RTOS;Verilog;嵌入式C,"建议补充技能：数据分析, 可视化, SQL, Python, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,20.0,40.0,100.0,0.16,38.53
+R005,刘洋,J005,前端开发工程师,广州云栖网络,,Git;Vue.js;React;JavaScript;Webpack;HTML/CSS,Altium Designer;C++;CAN总线;FPGA;Qt;RTOS;Verilog;嵌入式C,"建议补充技能：Git, Vue.js, React, JavaScript, Webpack，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,100.0,0.16,38.53
+R005,刘洋,J010,UI设计师,杭州网易创意,,Sketch;Figma;用户研究;UI设计;Adobe XD,Altium Designer;C++;CAN总线;FPGA;Qt;RTOS;Verilog;嵌入式C,"建议补充技能：Sketch, Figma, 用户研究, UI设计, Adobe XD，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,20.0,40.0,100.0,0.16,38.53
+R005,刘洋,J014,全栈开发工程师,广州腾讯系创业公司,,Git;Vue.js;React;Docker;MySQL;Python,Altium Designer;C++;CAN总线;FPGA;Qt;RTOS;Verilog;嵌入式C,"建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,100.0,0.0,38.5
+R005,刘洋,J018,运营数据分析师,杭州阿里巴巴,,数据分析;SQL;AARRR;Python;PowerPoint;Excel,Altium Designer;C++;CAN总线;FPGA;Qt;RTOS;Verilog;嵌入式C,"建议补充技能：数据分析, SQL, AARRR, Python, PowerPoint，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,100.0,0.0,38.5
+R005,刘洋,J006,测试工程师,深圳华为外包中心,,Postman;Selenium;Linux;SQL;测试基础,Altium Designer;C++;CAN总线;FPGA;Qt;RTOS;Verilog;嵌入式C,"建议补充技能：Postman, Selenium, Linux, SQL, 测试基础，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,100.0,14.29,12.5,0.15,38.15
+R005,刘洋,J020,量化开发工程师,上海幻方量化,C++,金融数据分析;因子挖掘;Python;Backtrader;量化策略,Altium Designer;CAN总线;FPGA;Qt;RTOS;Verilog;嵌入式C,"技能匹配较高，共同技能包括 C++。
+建议补充技能：金融数据分析, 因子挖掘, Python, Backtrader, 量化策略，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",41.67,75.0,100.0,20.0,44.44,12.5,3.23,36.03
+R006,赵敏,J018,运营数据分析师,杭州阿里巴巴,Excel;Python;SQL,数据分析;PowerPoint;AARRR,R;SPSS;回归分析;时间序列分析;机器学习,"技能匹配较高，共同技能包括 Excel, Python, SQL。
+建议补充技能：数据分析, PowerPoint, AARRR，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",75.0,100.0,100.0,100.0,9.09,25.0,21.31,58.05
+R006,赵敏,J015,供应链数据分析师,上海京东物流,Excel;Python;SQL,数据分析;PowerBI,R;SPSS;回归分析;时间序列分析;机器学习,"技能匹配较高，共同技能包括 Excel, Python, SQL。
+建议补充技能：数据分析, PowerBI，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。",85.0,100.0,100.0,20.0,54.55,25.0,19.35,56.67
+R006,赵敏,J003,数据分析师,上海数联科技有限公司,Excel;Python;SQL,数据分析;可视化,SPSS;回归分析;时间序列分析;机器学习,"技能匹配较高，共同技能包括 Excel, Python, SQL。
+建议补充技能：数据分析, 可视化，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",80.0,100.0,100.0,20.0,100.0,25.0,20.89,55.47
+R006,赵敏,J001,后端开发工程师,杭州云智科技,Python;SQL,Git;Java;Docker;Linux,Excel;R;SPSS;回归分析;时间序列分析;机器学习,"技能匹配较高，共同技能包括 Python, SQL。
+建议补充技能：Git, Java, Docker, Linux，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",58.33,100.0,100.0,100.0,100.0,25.0,7.77,50.33
+R006,赵敏,J002,算法工程师（机器学习）,深圳AI研究院,Python;机器学习,TensorFlow;深度学习;数据分析;PyTorch,Excel;R;SPSS;SQL;回归分析;时间序列分析,"技能匹配较高，共同技能包括 Python, 机器学习。
+建议补充技能：TensorFlow, 深度学习, 数据分析, PyTorch，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",58.33,75.0,66.67,20.0,0.0,100.0,8.65,43.17
+R006,赵敏,J008,产品经理（数据产品）,北京字节数据,SQL,产品设计;数据分析;PRD;Axure,Excel;R;SPSS;回归分析;时间序列分析,"技能匹配较高，共同技能包括 SQL。
+建议补充技能：产品设计, 数据分析, PRD, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,6.93,42.15
+R006,赵敏,J011,HR招聘专员,南昌智联招聘,Excel,HR系统;招聘;面试;沟通,Python;R;SPSS;SQL;回归分析;时间序列分析;机器学习,"技能匹配较高，共同技能包括 Excel。
+建议补充技能：HR系统, 招聘, 面试, 沟通，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,33.33,25.0,4.07,41.58
+R006,赵敏,J006,测试工程师,深圳华为外包中心,SQL,测试基础;Linux;Selenium;Postman,Excel;R;SPSS;回归分析;时间序列分析;机器学习,"技能匹配较高，共同技能包括 SQL。
+建议补充技能：测试基础, Linux, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,3.65,41.49
+R006,赵敏,J017,教育产品经理,南昌新东方在线,SQL,产品设计;数据分析;Axure;在线教育,Excel;R;SPSS;回归分析;时间序列分析,"技能匹配较高，共同技能包括 SQL。
+建议补充技能：产品设计, 数据分析, Axure, 在线教育，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,3.66,41.49
+R006,赵敏,J014,全栈开发工程师,广州腾讯系创业公司,Python,Git;Vue.js;React;Docker;MySQL,Excel;R;SPSS;SQL;回归分析;时间序列分析;机器学习,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,25.0,3.32,40.43
+R007,孙浩,J009,DevOps工程师,上海蚂蚁金服,CI/CD;Docker;Kubernetes;Linux;Python,Shell,Go,"技能匹配较高，共同技能包括 CI/CD, Docker, Kubernetes, Linux, Python。
+建议补充技能：Shell，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",88.33,100.0,100.0,20.0,100.0,100.0,29.54,63.48
+R007,孙浩,J001,后端开发工程师,杭州云智科技,Docker;Linux;Python,Git;Java;SQL,Ansible;CI/CD;Go;Grafana;Kubernetes;Prometheus;Terraform,"技能匹配较高，共同技能包括 Docker, Linux, Python。
+建议补充技能：Git, Java, SQL，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",75.0,100.0,100.0,20.0,0.0,25.0,10.52,51.89
+R007,孙浩,J014,全栈开发工程师,广州腾讯系创业公司,Docker;Python,Git;React;MySQL;Vue.js,Ansible;CI/CD;Go;Grafana;Kubernetes;Linux;Prometheus;Terraform,"技能匹配较高，共同技能包括 Docker, Python。
+建议补充技能：Git, React, MySQL, Vue.js，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,20.0,0.0,25.0,6.77,46.13
+R007,孙浩,J012,安全工程师（渗透测试）,北京奇安信,Python,SQL注入;BurpSuite;渗透测试;Nmap;XSS,Ansible;CI/CD;Docker;Go;Grafana;Kubernetes;Linux;Prometheus;Terraform,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL注入, BurpSuite, 渗透测试, Nmap, XSS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,100.0,100.0,25.0,3.04,44.37
+R007,孙浩,J006,测试工程师,深圳华为外包中心,Linux,测试基础;SQL;Selenium;Postman,Ansible;Docker;Go;Grafana;Kubernetes;Prometheus;Terraform,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：测试基础, SQL, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,4.06,41.57
+R007,孙浩,J004,Java开发工程师,南昌智创软件,Linux,Git;Java;MySQL;Spring Boot,Ansible;CI/CD;Go;Grafana;Kubernetes;Prometheus;Python;Terraform,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：Git, Java, MySQL, Spring Boot，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,4.0,41.56
+R007,孙浩,J007,嵌入式软件工程师,深圳拓疆机器人,Linux,RTOS;嵌入式C;C++;MCU开发,Ansible;CI/CD;Docker;Go;Grafana;Kubernetes;Prometheus;Python;Terraform,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：RTOS, 嵌入式C, C++, MCU开发，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,78.57,25.0,3.57,41.48
+R007,孙浩,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,Ansible;CI/CD;Docker;Go;Grafana;Kubernetes;Linux;Prometheus;Terraform,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,2.97,41.35
+R007,孙浩,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,Ansible;CI/CD;Docker;Go;Grafana;Kubernetes;Linux;Prometheus;Terraform,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,2.97,41.35
+R007,孙浩,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,Ansible;CI/CD;Docker;Go;Grafana;Kubernetes;Linux;Prometheus;Terraform,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,0.0,25.0,2.78,40.32
+R008,周婷,J003,数据分析师,上海数联科技有限公司,Excel;数据分析,SQL;可视化;Python,Photoshop;Premiere;内容策划;写作;社交媒体运营,"技能匹配较高，共同技能包括 Excel, 数据分析。
+建议补充技能：SQL, 可视化, Python，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",65.0,100.0,0.0,100.0,100.0,100.0,8.58,46.25
+R008,周婷,J015,供应链数据分析师,上海京东物流,Excel;数据分析,SQL;PowerBI;Python,Photoshop;Premiere;内容策划;写作;社交媒体运营,"技能匹配较高，共同技能包括 Excel, 数据分析。
+建议补充技能：SQL, PowerBI, Python，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",65.0,100.0,0.0,100.0,0.0,12.5,9.37,42.03
+R008,周婷,J018,运营数据分析师,杭州阿里巴巴,Excel;数据分析,SQL;AARRR;PowerPoint;Python,Photoshop;Premiere;内容策划;写作;社交媒体运营,"技能匹配较高，共同技能包括 Excel, 数据分析。
+建议补充技能：SQL, AARRR, PowerPoint, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,0.0,20.0,0.0,100.0,13.19,41.16
+R008,周婷,J011,HR招聘专员,南昌智联招聘,Excel,HR系统;招聘;面试;沟通,Photoshop;Premiere;内容策划;写作;社交媒体运营,"技能匹配较高，共同技能包括 Excel。
+建议补充技能：HR系统, 招聘, 面试, 沟通，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,0.0,20.0,100.0,12.5,5.2,31.18
+R008,周婷,J008,产品经理（数据产品）,北京字节数据,数据分析,产品设计;SQL;PRD;Axure,Excel;Photoshop;Premiere;内容策划;写作;社交媒体运营,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：产品设计, SQL, PRD, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,0.0,20.0,0.0,12.5,4.54,31.05
+R008,周婷,J017,教育产品经理,南昌新东方在线,数据分析,产品设计;SQL;在线教育;Axure,Excel;Photoshop;Premiere;内容策划;写作;社交媒体运营,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：产品设计, SQL, 在线教育, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,0.0,20.0,100.0,12.5,3.85,30.91
+R008,周婷,J001,后端开发工程师,杭州云智科技,,Git;Linux;Java;SQL;Docker;Python,Excel;Photoshop;Premiere;内容策划;写作;数据分析;社交媒体运营,"建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,0.0,20.0,0.0,100.0,0.24,28.55
+R008,周婷,J005,前端开发工程师,广州云栖网络,,Git;Vue.js;React;JavaScript;Webpack;HTML/CSS,Excel;Photoshop;Premiere;内容策划;写作;数据分析;社交媒体运营,"建议补充技能：Git, Vue.js, React, JavaScript, Webpack，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,0.0,20.0,37.5,100.0,0.0,28.5
+R008,周婷,J007,嵌入式软件工程师,深圳拓疆机器人,,MCU开发;RTOS;Linux;嵌入式C;C++,Excel;Photoshop;Premiere;内容策划;写作;数据分析;社交媒体运营,"建议补充技能：MCU开发, RTOS, Linux, 嵌入式C, C++，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,0.0,20.0,0.0,100.0,0.0,28.5
+R008,周婷,J010,UI设计师,杭州网易创意,,Sketch;Figma;用户研究;UI设计;Adobe XD,Excel;Photoshop;Premiere;内容策划;写作;数据分析;社交媒体运营,"建议补充技能：Sketch, Figma, 用户研究, UI设计, Adobe XD，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,0.0,20.0,100.0,100.0,0.0,28.5
+R009,吴磊,J001,后端开发工程师,杭州云智科技,Docker;Java;Python,Git;SQL;Linux,ElasticSearch;Kubernetes;MySQL;Spring Cloud,"技能匹配较高，共同技能包括 Docker, Java, Python。
+建议补充技能：Git, SQL, Linux，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",70.0,100.0,100.0,100.0,70.0,25.0,12.24,54.74
+R009,吴磊,J014,全栈开发工程师,广州腾讯系创业公司,Docker;MySQL;Python,Git;React;Vue.js,ElasticSearch;Java;Kafka;Kubernetes;Redis;Spring Cloud,"技能匹配较高，共同技能包括 Docker, MySQL, Python。
+建议补充技能：Git, React, Vue.js，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",75.0,100.0,100.0,20.0,33.33,25.0,10.86,51.96
+R009,吴磊,J009,DevOps工程师,上海蚂蚁金服,Docker;Kubernetes;Python,CI/CD;Shell;Linux,ElasticSearch;Java;Kafka;MySQL;Redis;Spring Cloud,"技能匹配较高，共同技能包括 Docker, Kubernetes, Python。
+建议补充技能：CI/CD, Shell, Linux，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",75.0,100.0,100.0,20.0,100.0,25.0,10.44,51.88
+R009,吴磊,J004,Java开发工程师,南昌智创软件,Java;MySQL,Git;Spring Boot;Linux,ElasticSearch;Kubernetes;Python;Spring Cloud,"技能匹配较高，共同技能包括 Java, MySQL。
+建议补充技能：Git, Spring Boot, Linux，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",60.0,100.0,100.0,20.0,0.0,25.0,9.3,47.13
+R009,吴磊,J002,算法工程师（机器学习）,深圳AI研究院,Python,数据分析;机器学习;TensorFlow;深度学习;PyTorch,Docker;ElasticSearch;Java;Kafka;Kubernetes;MySQL;Redis;Spring Cloud,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, 机器学习, TensorFlow, 深度学习, PyTorch，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,4.54,44.42
+R009,吴磊,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,Docker;ElasticSearch;Java;Kafka;Kubernetes;MySQL;Redis;Spring Cloud,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,100.0,100.0,25.0,2.97,44.36
+R009,吴磊,J019,视觉算法工程师,深圳大疆创新,Python,计算机视觉;CUDA;深度学习;PyTorch;OpenCV,Docker;ElasticSearch;Java;Kafka;Kubernetes;MySQL;Redis;Spring Cloud,"技能匹配较高，共同技能包括 Python。
+建议补充技能：计算机视觉, CUDA, 深度学习, PyTorch, OpenCV，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,31.82,100.0,2.97,44.1
+R009,吴磊,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,Docker;ElasticSearch;Java;Kafka;Kubernetes;MySQL;Redis;Spring Cloud,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,3.19,41.4
+R009,吴磊,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,Docker;ElasticSearch;Java;Kafka;Kubernetes;MySQL;Redis;Spring Cloud,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,70.0,25.0,3.19,41.4
+R009,吴磊,J012,安全工程师（渗透测试）,北京奇安信,Python,SQL注入;BurpSuite;渗透测试;Nmap;XSS,Docker;ElasticSearch;Java;Kafka;Kubernetes;MySQL;Redis;Spring Cloud,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL注入, BurpSuite, 渗透测试, Nmap, XSS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,25.0,2.96,40.35
+R010,郑雪,J011,HR招聘专员,南昌智联招聘,Excel;HR系统;招聘;面试,沟通,PowerPoint;劳动关系;绩效管理,"技能匹配较高，共同技能包括 Excel, HR系统, 招聘, 面试。
+建议补充技能：沟通，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",95.0,100.0,100.0,100.0,100.0,100.0,35.65,70.71
+R010,郑雪,J018,运营数据分析师,杭州阿里巴巴,Excel;PowerPoint,SQL;数据分析;AARRR;Python,HR系统;劳动关系;招聘;绩效管理;面试,"技能匹配较高，共同技能包括 Excel, PowerPoint。
+建议补充技能：SQL, 数据分析, AARRR, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,20.0,0.0,100.0,9.2,50.37
+R010,郑雪,J003,数据分析师,上海数联科技有限公司,Excel,SQL;数据分析;可视化;Python,HR系统;PowerPoint;劳动关系;招聘;绩效管理;面试,"技能匹配较高，共同技能包括 Excel。
+建议补充技能：SQL, 数据分析, 可视化, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,28.57,100.0,4.13,45.34
+R010,郑雪,J015,供应链数据分析师,上海京东物流,Excel,SQL;数据分析;PowerBI;Python,HR系统;PowerPoint;劳动关系;招聘;绩效管理;面试,"技能匹配较高，共同技能包括 Excel。
+建议补充技能：SQL, 数据分析, PowerBI, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,3.97,41.56
+R010,郑雪,J004,Java开发工程师,南昌智创软件,,Git;Linux;Spring Boot;Java;MySQL,Excel;HR系统;PowerPoint;劳动关系;招聘;绩效管理;面试,"建议补充技能：Git, Linux, Spring Boot, Java, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,100.0,28.57,25.0,0.54,38.86
+R010,郑雪,J001,后端开发工程师,杭州云智科技,,Git;Linux;Java;SQL;Docker;Python,Excel;HR系统;PowerPoint;劳动关系;招聘;绩效管理;面试,"建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,20.0,0.0,100.0,1.38,38.78
+R010,郑雪,J017,教育产品经理,南昌新东方在线,,数据分析;在线教育;SQL;Axure;产品设计,Excel;HR系统;PowerPoint;劳动关系;招聘;绩效管理;面试,"建议补充技能：数据分析, 在线教育, SQL, Axure, 产品设计，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,100.0,28.57,25.0,0.14,38.78
+R010,郑雪,J014,全栈开发工程师,广州腾讯系创业公司,,Git;Vue.js;React;Docker;MySQL;Python,Excel;HR系统;PowerPoint;劳动关系;招聘;绩效管理;面试,"建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,20.0,0.0,100.0,0.28,38.56
+R010,郑雪,J005,前端开发工程师,广州云栖网络,,Git;Vue.js;React;JavaScript;Webpack;HTML/CSS,Excel;HR系统;PowerPoint;劳动关系;招聘;绩效管理;面试,"建议补充技能：Git, Vue.js, React, JavaScript, Webpack，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,20.0,0.0,100.0,0.15,38.53
+R010,郑雪,J010,UI设计师,杭州网易创意,,Sketch;Figma;用户研究;UI设计;Adobe XD,Excel;HR系统;PowerPoint;劳动关系;招聘;绩效管理;面试,"建议补充技能：Sketch, Figma, 用户研究, UI设计, Adobe XD，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,20.0,28.57,100.0,0.15,38.53
+R011,黄志明,J013,机械结构工程师,深圳比亚迪工程,ANSYS;AutoCAD;SolidWorks,机械制图;材料工艺,Python;工业机器人,"技能匹配较高，共同技能包括 ANSYS, AutoCAD, SolidWorks。
+建议补充技能：机械制图, 材料工艺，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",70.0,100.0,100.0,100.0,100.0,100.0,18.11,59.67
+R011,黄志明,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,ANSYS;AutoCAD;MATLAB;PLC;SolidWorks;工业机器人,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,100.0,3.76,45.27
+R011,黄志明,J001,后端开发工程师,杭州云智科技,Python,Git;Linux;Java;SQL;Docker,ANSYS;AutoCAD;MATLAB;PLC;SolidWorks;工业机器人,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,4.99,44.51
+R011,黄志明,J014,全栈开发工程师,广州腾讯系创业公司,Python,Git;Vue.js;React;Docker;MySQL,ANSYS;AutoCAD;MATLAB;PLC;SolidWorks;工业机器人,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,3.93,44.3
+R011,黄志明,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,ANSYS;AutoCAD;MATLAB;PLC;SolidWorks;工业机器人,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,3.46,44.2
+R011,黄志明,J007,嵌入式软件工程师,深圳拓疆机器人,,MCU开发;RTOS;Linux;嵌入式C;C++,ANSYS;AutoCAD;MATLAB;PLC;Python;SolidWorks;工业机器人,"建议补充技能：MCU开发, RTOS, Linux, 嵌入式C, C++，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,100.0,64.29,100.0,0.0,42.5
+R011,黄志明,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,ANSYS;AutoCAD;MATLAB;PLC;SolidWorks;工业机器人,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,12.5,4.27,40.99
+R011,黄志明,J002,算法工程师（机器学习）,深圳AI研究院,Python,数据分析;机器学习;TensorFlow;深度学习;PyTorch,ANSYS;AutoCAD;MATLAB;PLC;SolidWorks;工业机器人,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, 机器学习, TensorFlow, 深度学习, PyTorch，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",41.67,75.0,100.0,100.0,0.0,12.5,3.45,40.08
+R011,黄志明,J019,视觉算法工程师,深圳大疆创新,Python,计算机视觉;CUDA;深度学习;PyTorch;OpenCV,ANSYS;AutoCAD;MATLAB;PLC;SolidWorks;工业机器人,"技能匹配较高，共同技能包括 Python。
+建议补充技能：计算机视觉, CUDA, 深度学习, PyTorch, OpenCV，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",41.67,75.0,100.0,100.0,0.0,12.5,3.45,40.08
+R011,黄志明,J012,安全工程师（渗透测试）,北京奇安信,Python,SQL注入;BurpSuite;渗透测试;Nmap;XSS,ANSYS;AutoCAD;MATLAB;PLC;SolidWorks;工业机器人,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL注入, BurpSuite, 渗透测试, Nmap, XSS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,0.0,12.5,3.44,39.83
+R012,林雅文,J014,全栈开发工程师,广州腾讯系创业公司,Docker;Git;MySQL;Python;React;Vue.js,,Django;Flask;Linux;Redis,"技能匹配较高，共同技能包括 Docker, Git, MySQL, Python, React。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",100.0,100.0,50.0,100.0,100.0,25.0,33.97,63.13
+R012,林雅文,J001,后端开发工程师,杭州云智科技,Docker;Git;Linux;Python,Java;SQL,Django;Flask;MySQL;React;Vue.js,"技能匹配较高，共同技能包括 Docker, Git, Linux, Python。
+建议补充技能：Java, SQL，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",91.67,100.0,50.0,20.0,100.0,25.0,15.51,52.9
+R012,林雅文,J005,前端开发工程师,广州云栖网络,Git;React;Vue.js,JavaScript;Webpack;HTML/CSS,Django;Docker;Flask;Linux;MySQL;Python;Redis,"技能匹配较高，共同技能包括 Git, React, Vue.js。
+建议补充技能：JavaScript, Webpack, HTML/CSS，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",75.0,100.0,50.0,100.0,100.0,25.0,17.07,52.2
+R012,林雅文,J004,Java开发工程师,南昌智创软件,Git;Linux;MySQL,Spring Boot;Java,Django;Flask;Python;React;Vue.js,"技能匹配较高，共同技能包括 Git, Linux, MySQL。
+建议补充技能：Spring Boot, Java，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",85.0,100.0,50.0,20.0,100.0,25.0,12.78,50.34
+R012,林雅文,J009,DevOps工程师,上海蚂蚁金服,Docker;Linux;Python,Kubernetes;CI/CD;Shell,Django;Flask;Git;MySQL;React;Redis;Vue.js,"技能匹配较高，共同技能包括 Docker, Linux, Python。
+建议补充技能：Kubernetes, CI/CD, Shell，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",75.0,100.0,25.0,20.0,0.0,25.0,10.58,44.4
+R012,林雅文,J006,测试工程师,深圳华为外包中心,Linux,测试基础;SQL;Selenium;Postman,Django;Docker;Flask;Git;MySQL;React;Redis;Vue.js,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：测试基础, SQL, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,3.29,41.42
+R012,林雅文,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,Django;Docker;Flask;Git;Linux;MySQL;React;Redis;Vue.js,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,2.97,41.35
+R012,林雅文,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,Django;Docker;Flask;Git;Linux;MySQL;React;Redis;Vue.js,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,50.0,20.0,0.0,25.0,3.5,36.46
+R012,林雅文,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,Django;Docker;Flask;Git;Linux;MySQL;React;Redis;Vue.js,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,50.0,20.0,0.0,25.0,2.78,35.32
+R012,林雅文,J010,UI设计师,杭州网易创意,,Sketch;Figma;用户研究;UI设计;Adobe XD,Django;Docker;Flask;Git;Linux;MySQL;Python;React;Redis;Vue.js,"建议补充技能：Sketch, Figma, 用户研究, UI设计, Adobe XD，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,25.0,1.33,35.02
+R013,何建华,J019,视觉算法工程师,深圳大疆创新,CUDA;OpenCV;PyTorch;Python,计算机视觉;深度学习,Docker;Linux;MLOps,"技能匹配较高，共同技能包括 CUDA, OpenCV, PyTorch, Python。
+建议补充技能：计算机视觉, 深度学习，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",81.67,100.0,100.0,100.0,100.0,100.0,25.72,64.69
+R013,何建华,J002,算法工程师（机器学习）,深圳AI研究院,PyTorch;Python,机器学习;TensorFlow;深度学习;数据分析,C++;CUDA;Docker;Linux;MLOps;OpenCV;SLAM;点云处理,"技能匹配较高，共同技能包括 PyTorch, Python。
+建议补充技能：机器学习, TensorFlow, 深度学习, 数据分析，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,100.0,57.14,100.0,9.59,54.44
+R013,何建华,J007,嵌入式软件工程师,深圳拓疆机器人,C++;Linux,RTOS;嵌入式C;MCU开发,CUDA;Docker;MLOps;OpenCV;PyTorch;Python;点云处理,"技能匹配较高，共同技能包括 C++, Linux。
+建议补充技能：RTOS, 嵌入式C, MCU开发，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",65.0,100.0,100.0,100.0,0.0,12.5,6.81,51.51
+R013,何建华,J001,后端开发工程师,杭州云智科技,Docker;Linux;Python,Git;Java;SQL,C++;CUDA;MLOps;OpenCV;PyTorch;SLAM;点云处理,"技能匹配较高，共同技能包括 Docker, Linux, Python。
+建议补充技能：Git, Java, SQL，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",75.0,100.0,100.0,20.0,0.0,12.5,10.98,51.36
+R013,何建华,J009,DevOps工程师,上海蚂蚁金服,Docker;Linux;Python,Kubernetes;CI/CD;Shell,C++;CUDA;MLOps;OpenCV;PyTorch;SLAM;点云处理,"技能匹配较高，共同技能包括 Docker, Linux, Python。
+建议补充技能：Kubernetes, CI/CD, Shell，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",75.0,100.0,100.0,20.0,100.0,12.5,10.36,51.23
+R013,何建华,J014,全栈开发工程师,广州腾讯系创业公司,Docker;Python,Git;React;MySQL;Vue.js,C++;CUDA;Linux;MLOps;OpenCV;PyTorch;SLAM;点云处理,"技能匹配较高，共同技能包括 Docker, Python。
+建议补充技能：Git, React, MySQL, Vue.js，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,20.0,0.0,12.5,6.98,45.54
+R013,何建华,J020,量化开发工程师,上海幻方量化,C++;Python,金融数据分析;Backtrader;量化策略;因子挖掘,CUDA;Docker;Linux;MLOps;OpenCV;PyTorch;SLAM;点云处理,"技能匹配较高，共同技能包括 C++, Python。
+建议补充技能：金融数据分析, Backtrader, 量化策略, 因子挖掘，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",58.33,100.0,100.0,20.0,100.0,12.5,6.42,45.43
+R013,何建华,J006,测试工程师,深圳华为外包中心,Linux,测试基础;SQL;Selenium;Postman,C++;CUDA;Docker;MLOps;OpenCV;PyTorch;SLAM;点云处理,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：测试基础, SQL, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,100.0,0.0,12.5,3.27,44.79
+R013,何建华,J004,Java开发工程师,南昌智创软件,Linux,Git;Java;MySQL;Spring Boot,C++;CUDA;MLOps;OpenCV;PyTorch;Python;SLAM;点云处理,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：Git, Java, MySQL, Spring Boot，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,12.5,4.27,40.99
+R013,何建华,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,C++;CUDA;Docker;Linux;MLOps;OpenCV;PyTorch;SLAM;点云处理,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,12.5,3.43,40.82
+R014,马丽,J018,运营数据分析师,杭州阿里巴巴,数据分析,SQL;AARRR;Python;PowerPoint;Excel,Canva;Google Analytics;SEM;SEO;Shopify;内容营销;社交媒体运营,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：SQL, AARRR, Python, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",41.67,75.0,100.0,100.0,0.0,100.0,6.35,45.03
+R014,马丽,J003,数据分析师,上海数联科技有限公司,数据分析,Excel;SQL;可视化;Python,Canva;Google Analytics;SEM;SEO;Shopify;内容营销;社交媒体运营,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：Excel, SQL, 可视化, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。
+薪资期望与岗位范围匹配良好。",45.0,75.0,100.0,20.0,100.0,100.0,3.57,41.48
+R014,马丽,J001,后端开发工程师,杭州云智科技,,Git;Linux;Java;SQL;Docker;Python,Canva;Google Analytics;SEM;SEO;Shopify;内容营销;数据分析;社交媒体运营,"建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",25.0,75.0,100.0,100.0,0.0,100.0,0.0,38.75
+R014,马丽,J010,UI设计师,杭州网易创意,,Sketch;Figma;用户研究;UI设计;Adobe XD,Canva;Google Analytics;SEM;SEO;Shopify;内容营销;数据分析;社交媒体运营,"建议补充技能：Sketch, Figma, 用户研究, UI设计, Adobe XD，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。
+薪资期望与岗位范围匹配良好。",25.0,75.0,100.0,100.0,100.0,100.0,0.0,38.75
+R014,马丽,J008,产品经理（数据产品）,北京字节数据,数据分析,产品设计;SQL;PRD;Axure,Canva;Google Analytics;SEM;SEO;Shopify;内容营销;社交媒体运营,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：产品设计, SQL, PRD, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",45.0,75.0,100.0,20.0,0.0,12.5,3.74,37.14
+R014,马丽,J015,供应链数据分析师,上海京东物流,数据分析,SQL;PowerBI;Excel;Python,Canva;Google Analytics;SEM;SEO;Shopify;内容营销;社交媒体运营,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：SQL, PowerBI, Excel, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",45.0,75.0,100.0,20.0,0.0,12.5,3.56,37.1
+R014,马丽,J017,教育产品经理,南昌新东方在线,数据分析,产品设计;SQL;在线教育;Axure,Canva;Google Analytics;SEM;SEO;Shopify;内容营销;社交媒体运营,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：产品设计, SQL, 在线教育, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。
+薪资期望与岗位范围匹配良好。",45.0,75.0,100.0,20.0,100.0,12.5,3.55,37.1
+R014,马丽,J014,全栈开发工程师,广州腾讯系创业公司,,Git;Vue.js;React;Docker;MySQL;Python,Canva;Google Analytics;SEM;SEO;Shopify;内容营销;数据分析;社交媒体运营,"建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",25.0,75.0,100.0,20.0,0.0,100.0,0.58,34.87
+R014,马丽,J005,前端开发工程师,广州云栖网络,,Git;Vue.js;React;JavaScript;Webpack;HTML/CSS,Canva;Google Analytics;SEM;SEO;Shopify;内容营销;数据分析;社交媒体运营,"建议补充技能：Git, Vue.js, React, JavaScript, Webpack，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",25.0,75.0,100.0,20.0,37.5,100.0,0.0,34.75
+R014,马丽,J007,嵌入式软件工程师,深圳拓疆机器人,,MCU开发;RTOS;Linux;嵌入式C;C++,Canva;Google Analytics;SEM;SEO;Shopify;内容营销;数据分析;社交媒体运营,"建议补充技能：MCU开发, RTOS, Linux, 嵌入式C, C++，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",25.0,75.0,100.0,20.0,0.0,100.0,0.0,34.75
+R015,杨帆,J012,安全工程师（渗透测试）,北京奇安信,BurpSuite;Nmap;Python;SQL注入;XSS;渗透测试,,IDS/IPS;Wireshark;安全加固,"技能匹配较高，共同技能包括 BurpSuite, Nmap, Python, SQL注入, XSS。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",100.0,100.0,100.0,100.0,100.0,62.5,30.9,69.4
+R015,杨帆,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,BurpSuite;IDS/IPS;Nmap;SQL注入;Wireshark;XSS;安全加固;渗透测试;等级保护,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,100.0,3.12,45.14
+R015,杨帆,J001,后端开发工程师,杭州云智科技,Python,Git;Linux;Java;SQL;Docker,BurpSuite;IDS/IPS;Nmap;SQL注入;Wireshark;XSS;安全加固;渗透测试;等级保护,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,0.0,100.0,3.66,44.24
+R015,杨帆,J014,全栈开发工程师,广州腾讯系创业公司,Python,Git;Vue.js;React;Docker;MySQL,BurpSuite;IDS/IPS;Nmap;SQL注入;Wireshark;XSS;安全加固;渗透测试;等级保护,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,0.0,100.0,2.79,44.07
+R015,杨帆,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,BurpSuite;IDS/IPS;Nmap;SQL注入;Wireshark;XSS;安全加固;渗透测试;等级保护,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,18.18,100.0,2.78,44.07
+R015,杨帆,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,BurpSuite;IDS/IPS;Nmap;SQL注入;Wireshark;XSS;安全加固;渗透测试;等级保护,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,2.97,41.35
+R015,杨帆,J009,DevOps工程师,上海蚂蚁金服,Python,Kubernetes;Linux;Docker;CI/CD;Shell,BurpSuite;IDS/IPS;Nmap;SQL注入;Wireshark;XSS;安全加固;渗透测试;等级保护,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Kubernetes, Linux, Docker, CI/CD, Shell，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,25.0,5.52,40.86
+R015,杨帆,J016,网络安全架构师,深圳深信服,,零信任;密码学;身份认证;网络安全;PKI;OAuth2,BurpSuite;IDS/IPS;Nmap;Python;SQL注入;Wireshark;XSS;安全加固;渗透测试;等级保护,"建议补充技能：零信任, 密码学, 身份认证, 网络安全, PKI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,100.0,64.29,25.0,0.62,38.87
+R015,杨帆,J008,产品经理（数据产品）,北京字节数据,,数据分析;PRD;SQL;Axure;产品设计,BurpSuite;IDS/IPS;Nmap;SQL注入;Wireshark;XSS;安全加固;渗透测试;等级保护,"建议补充技能：数据分析, PRD, SQL, Axure, 产品设计，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,100.0,64.0,25.0,0.34,38.82
+R015,杨帆,J005,前端开发工程师,广州云栖网络,,Git;Vue.js;React;JavaScript;Webpack;HTML/CSS,BurpSuite;IDS/IPS;Nmap;Python;SQL注入;Wireshark;XSS;安全加固;渗透测试;等级保护,"建议补充技能：Git, Vue.js, React, JavaScript, Webpack，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,20.0,0.0,100.0,0.15,38.53
+R016,韩梅梅,J003,数据分析师,上海数联科技有限公司,Python;数据分析,Excel;SQL;可视化,HTML/CSS;LMS;MySQL;Scratch;在线教育平台;教学设计,"技能匹配较高，共同技能包括 Python, 数据分析。
+建议补充技能：Excel, SQL, 可视化，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",65.0,100.0,100.0,20.0,100.0,12.5,7.97,47.75
+R016,韩梅梅,J015,供应链数据分析师,上海京东物流,Python;数据分析,SQL;PowerBI;Excel,HTML/CSS;LMS;MySQL;Scratch;在线教育平台;教学设计,"技能匹配较高，共同技能包括 Python, 数据分析。
+建议补充技能：SQL, PowerBI, Excel，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",65.0,100.0,100.0,20.0,0.0,12.5,7.95,47.74
+R016,韩梅梅,J002,算法工程师（机器学习）,深圳AI研究院,Python;数据分析,机器学习;TensorFlow;深度学习;PyTorch,HTML/CSS;LMS;MySQL;Scratch;在线教育平台;教学设计,"技能匹配较高，共同技能包括 Python, 数据分析。
+建议补充技能：机器学习, TensorFlow, 深度学习, PyTorch，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",58.33,75.0,100.0,20.0,0.0,100.0,7.31,46.24
+R016,韩梅梅,J017,教育产品经理,南昌新东方在线,数据分析,产品设计;SQL;在线教育;Axure,HTML/CSS;LMS;MySQL;Scratch;在线教育平台;教学设计,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：产品设计, SQL, 在线教育, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,100.0,100.0,12.5,8.4,45.82
+R016,韩梅梅,J014,全栈开发工程师,广州腾讯系创业公司,MySQL;Python,Git;React;Docker;Vue.js,HTML/CSS;LMS;Scratch;在线教育平台;教学设计;数据分析,"技能匹配较高，共同技能包括 MySQL, Python。
+建议补充技能：Git, React, Docker, Vue.js，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,20.0,44.44,12.5,8.06,45.76
+R016,韩梅梅,J018,运营数据分析师,杭州阿里巴巴,Python;数据分析,Excel;SQL;AARRR;PowerPoint,HTML/CSS;LMS;MySQL;Scratch;在线教育平台;教学设计,"技能匹配较高，共同技能包括 Python, 数据分析。
+建议补充技能：Excel, SQL, AARRR, PowerPoint，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,20.0,0.0,12.5,7.38,45.63
+R016,韩梅梅,J004,Java开发工程师,南昌智创软件,MySQL,Git;Java;Spring Boot;Linux,HTML/CSS;LMS;Python;Scratch;在线教育平台;教学设计;数据分析,"技能匹配较高，共同技能包括 MySQL。
+建议补充技能：Git, Java, Spring Boot, Linux，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,100.0,100.0,12.5,4.99,45.13
+R016,韩梅梅,J008,产品经理（数据产品）,北京字节数据,数据分析,产品设计;SQL;PRD;Axure,HTML/CSS;LMS;MySQL;Scratch;在线教育平台;教学设计,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：产品设计, SQL, PRD, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,12.5,4.99,41.13
+R016,韩梅梅,J001,后端开发工程师,杭州云智科技,Python,Git;Linux;Java;SQL;Docker,HTML/CSS;LMS;MySQL;Scratch;在线教育平台;教学设计;数据分析,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,44.44,12.5,6.54,40.44
+R016,韩梅梅,J019,视觉算法工程师,深圳大疆创新,Python,计算机视觉;CUDA;深度学习;PyTorch;OpenCV,HTML/CSS;LMS;MySQL;Scratch;在线教育平台;教学设计;数据分析,"技能匹配较高，共同技能包括 Python。
+建议补充技能：计算机视觉, CUDA, 深度学习, PyTorch, OpenCV，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",41.67,75.0,100.0,20.0,0.0,100.0,3.29,40.42
+R017,陈晓东,J007,嵌入式软件工程师,深圳拓疆机器人,C++;Linux,RTOS;嵌入式C;MCU开发,5G;C语言;MQTT;Socket编程;TCP/IP;嵌入式开发;无线通信,"技能匹配较高，共同技能包括 C++, Linux。
+建议补充技能：RTOS, 嵌入式C, MCU开发，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",65.0,100.0,66.67,100.0,23.08,100.0,7.03,52.6
+R017,陈晓东,J006,测试工程师,深圳华为外包中心,Linux,测试基础;SQL;Selenium;Postman,5G;C++;CAN总线;C语言;MQTT;Socket编程;TCP/IP;嵌入式开发;无线通信,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：测试基础, SQL, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,100.0,100.0,12.5,3.81,44.9
+R017,陈晓东,J001,后端开发工程师,杭州云智科技,Linux,Git;Java;SQL;Docker;Python,5G;C++;CAN总线;C语言;MQTT;Socket编程;TCP/IP;嵌入式开发;无线通信,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：Git, Java, SQL, Docker, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,4.05,44.32
+R017,陈晓东,J013,机械结构工程师,深圳比亚迪工程,,材料工艺;AutoCAD;机械制图;ANSYS;SolidWorks,5G;C++;CAN总线;C语言;Linux;MQTT;Socket编程;TCP/IP;嵌入式开发;无线通信,"建议补充技能：材料工艺, AutoCAD, 机械制图, ANSYS, SolidWorks，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,100.0,100.0,100.0,0.14,42.53
+R017,陈晓东,J004,Java开发工程师,南昌智创软件,Linux,Git;Java;MySQL;Spring Boot,5G;C++;CAN总线;C语言;MQTT;Socket编程;TCP/IP;嵌入式开发;无线通信,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：Git, Java, MySQL, Spring Boot，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,12.5,3.67,40.87
+R017,陈晓东,J014,全栈开发工程师,广州腾讯系创业公司,,Git;Vue.js;React;Docker;MySQL;Python,5G;C++;CAN总线;C语言;Linux;MQTT;Socket编程;TCP/IP;嵌入式开发;无线通信,"建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,100.0,0.66,38.63
+R017,陈晓东,J005,前端开发工程师,广州云栖网络,,Git;Vue.js;React;JavaScript;Webpack;HTML/CSS,5G;C++;CAN总线;C语言;Linux;MQTT;Socket编程;TCP/IP;嵌入式开发;无线通信,"建议补充技能：Git, Vue.js, React, JavaScript, Webpack，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,100.0,0.38,38.58
+R017,陈晓东,J003,数据分析师,上海数联科技有限公司,,数据分析;可视化;SQL;Python;Excel,5G;C++;CAN总线;C语言;Linux;MQTT;Socket编程;TCP/IP;嵌入式开发;无线通信,"建议补充技能：数据分析, 可视化, SQL, Python, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,100.0,0.16,38.53
+R017,陈晓东,J010,UI设计师,杭州网易创意,,Sketch;Figma;用户研究;UI设计;Adobe XD,5G;C++;CAN总线;C语言;Linux;MQTT;Socket编程;TCP/IP;嵌入式开发;无线通信,"建议补充技能：Sketch, Figma, 用户研究, UI设计, Adobe XD，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,100.0,0.16,38.53
+R017,陈晓东,J018,运营数据分析师,杭州阿里巴巴,,数据分析;SQL;AARRR;Python;PowerPoint;Excel,5G;C++;CAN总线;C语言;Linux;MQTT;Socket编程;TCP/IP;嵌入式开发;无线通信,"建议补充技能：数据分析, SQL, AARRR, Python, PowerPoint，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,100.0,0.0,38.5
+R018,张晓丽,J015,供应链数据分析师,上海京东物流,Excel;PowerBI;Python;数据分析,SQL,CPLEX;Gurobi;MySQL;R;供应链,"技能匹配较高，共同技能包括 Excel, PowerBI, Python, 数据分析。
+建议补充技能：SQL，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",100.0,100.0,100.0,100.0,100.0,25.0,29.31,67.17
+R018,张晓丽,J003,数据分析师,上海数联科技有限公司,Excel;Python;数据分析,SQL;可视化,CPLEX;Gurobi;MySQL;供应链;运筹学,"技能匹配较高，共同技能包括 Excel, Python, 数据分析。
+建议补充技能：SQL, 可视化，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。",85.0,100.0,100.0,100.0,40.0,25.0,13.78,59.54
+R018,张晓丽,J018,运营数据分析师,杭州阿里巴巴,Excel;Python;数据分析,SQL;AARRR;PowerPoint,CPLEX;Gurobi;MySQL;PowerBI;R;供应链;运筹学,"技能匹配较高，共同技能包括 Excel, Python, 数据分析。
+建议补充技能：SQL, AARRR, PowerPoint，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",75.0,100.0,100.0,20.0,100.0,25.0,13.05,52.39
+R018,张晓丽,J002,算法工程师（机器学习）,深圳AI研究院,Python;数据分析,机器学习;TensorFlow;深度学习;PyTorch,CPLEX;Excel;Gurobi;MySQL;PowerBI;R;供应链;运筹学,"技能匹配较高，共同技能包括 Python, 数据分析。
+建议补充技能：机器学习, TensorFlow, 深度学习, PyTorch，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,20.0,44.44,100.0,6.53,49.83
+R018,张晓丽,J014,全栈开发工程师,广州腾讯系创业公司,MySQL;Python,Git;React;Docker;Vue.js,CPLEX;Excel;Gurobi;PowerBI;R;供应链;数据分析;运筹学,"技能匹配较高，共同技能包括 MySQL, Python。
+建议补充技能：Git, React, Docker, Vue.js，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",58.33,100.0,100.0,20.0,100.0,25.0,7.1,46.19
+R018,张晓丽,J020,量化开发工程师,上海幻方量化,Python,金融数据分析;因子挖掘;Backtrader;量化策略;C++,CPLEX;Excel;Gurobi;MySQL;PowerBI;R;供应链;数据分析;运筹学,"技能匹配较高，共同技能包括 Python。
+建议补充技能：金融数据分析, 因子挖掘, Backtrader, 量化策略, C++，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,100.0,44.44,25.0,4.97,44.75
+R018,张晓丽,J009,DevOps工程师,上海蚂蚁金服,Python,Kubernetes;Linux;Docker;CI/CD;Shell,CPLEX;Excel;Gurobi;MySQL;PowerBI;R;供应链;数据分析;运筹学,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Kubernetes, Linux, Docker, CI/CD, Shell，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,100.0,0.0,25.0,2.87,44.33
+R018,张晓丽,J019,视觉算法工程师,深圳大疆创新,Python,计算机视觉;CUDA;深度学习;PyTorch;OpenCV,CPLEX;Excel;Gurobi;MySQL;PowerBI;R;供应链;数据分析;运筹学,"技能匹配较高，共同技能包括 Python。
+建议补充技能：计算机视觉, CUDA, 深度学习, PyTorch, OpenCV，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,0.0,100.0,3.71,44.25
+R018,张晓丽,J008,产品经理（数据产品）,北京字节数据,数据分析,产品设计;SQL;PRD;Axure,CPLEX;Excel;Gurobi;MySQL;PowerBI;R;供应链;运筹学,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：产品设计, SQL, PRD, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,4.73,41.71
+R018,张晓丽,J004,Java开发工程师,南昌智创软件,MySQL,Git;Java;Spring Boot;Linux,CPLEX;Excel;Gurobi;PowerBI;Python;R;供应链;数据分析;运筹学,"技能匹配较高，共同技能包括 MySQL。
+建议补充技能：Git, Java, Spring Boot, Linux，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,40.0,25.0,3.92,41.54
+R019,李俊豪,J014,全栈开发工程师,广州腾讯系创业公司,Docker;Git;MySQL;Python,React;Vue.js,Flask;Java;Spring Boot;TDD;单元测试,"技能匹配较高，共同技能包括 Docker, Git, MySQL, Python。
+建议补充技能：React, Vue.js，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。",91.67,100.0,0.0,100.0,0.0,100.0,16.53,55.86
+R019,李俊豪,J004,Java开发工程师,南昌智创软件,Git;Java;MySQL;Spring Boot,Linux,Flask;MongoDB;Python;TDD;单元测试,"技能匹配较高，共同技能包括 Git, Java, MySQL, Spring Boot。
+建议补充技能：Linux，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。",100.0,100.0,0.0,20.0,28.57,100.0,22.23,55.5
+R019,李俊豪,J001,后端开发工程师,杭州云智科技,Docker;Git;Java;Python,SQL;Linux,Flask;MongoDB;MySQL;TDD;单元测试,"技能匹配较高，共同技能包括 Docker, Git, Java, Python。
+建议补充技能：SQL, Linux，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。",91.67,100.0,0.0,20.0,0.0,100.0,16.94,51.94
+R019,李俊豪,J005,前端开发工程师,广州云栖网络,Git,Vue.js;React;JavaScript;Webpack;HTML/CSS,Docker;Flask;Java;MongoDB;MySQL;Python;Spring Boot;TDD;单元测试,"技能匹配较高，共同技能包括 Git。
+建议补充技能：Vue.js, React, JavaScript, Webpack, HTML/CSS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,0.0,100.0,0.0,100.0,3.72,38.25
+R019,李俊豪,J009,DevOps工程师,上海蚂蚁金服,Docker;Python,Kubernetes;CI/CD;Shell;Linux,Flask;Git;Java;MongoDB;MySQL;Spring Boot;TDD;单元测试,"技能匹配较高，共同技能包括 Docker, Python。
+建议补充技能：Kubernetes, CI/CD, Shell, Linux，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,0.0,20.0,0.0,25.0,6.38,36.05
+R019,李俊豪,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,Docker;Flask;Git;Java;MongoDB;MySQL;Spring Boot;TDD;单元测试,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,0.0,20.0,28.57,100.0,2.97,35.1
+R019,李俊豪,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,Docker;Flask;Git;Java;MongoDB;MySQL;Spring Boot;TDD;单元测试,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,0.0,20.0,0.0,100.0,2.78,34.07
+R019,李俊豪,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,Docker;Flask;Git;Java;MongoDB;MySQL;Spring Boot;TDD;单元测试,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,0.0,20.0,0.0,25.0,2.96,31.35
+R019,李俊豪,J012,安全工程师（渗透测试）,北京奇安信,Python,SQL注入;BurpSuite;渗透测试;Nmap;XSS,Docker;Flask;Git;Java;MongoDB;MySQL;Spring Boot;TDD;单元测试,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL注入, BurpSuite, 渗透测试, Nmap, XSS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,0.0,20.0,0.0,25.0,2.98,30.36
+R019,李俊豪,J007,嵌入式软件工程师,深圳拓疆机器人,,MCU开发;RTOS;Linux;嵌入式C;C++,Docker;Flask;Git;Java;MongoDB;MySQL;Python;Spring Boot;TDD;单元测试,"建议补充技能：MCU开发, RTOS, Linux, 嵌入式C, C++，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,0.0,20.0,0.0,100.0,1.3,28.76
+R020,王丽娟,J015,供应链数据分析师,上海京东物流,Excel;Python;数据分析,SQL;PowerBI,Backtrader;CFA一级;MySQL;Wind;统计检验;量化策略,"技能匹配较高，共同技能包括 Excel, Python, 数据分析。
+建议补充技能：SQL, PowerBI，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",85.0,100.0,100.0,100.0,100.0,25.0,12.11,59.21
+R020,王丽娟,J003,数据分析师,上海数联科技有限公司,Excel;Python;数据分析,SQL;可视化,Backtrader;CFA一级;MySQL;Wind;统计检验;量化策略,"技能匹配较高，共同技能包括 Excel, Python, 数据分析。
+建议补充技能：SQL, 可视化，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。",85.0,100.0,100.0,100.0,80.0,25.0,11.84,59.16
+R020,王丽娟,J020,量化开发工程师,上海幻方量化,Backtrader;Python;量化策略,金融数据分析;C++;因子挖掘,CFA一级;Excel;MySQL;Wind;数据分析;统计检验,"技能匹配较高，共同技能包括 Backtrader, Python, 量化策略。
+建议补充技能：金融数据分析, C++, 因子挖掘，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历略低于要求，但可考虑。",75.0,75.0,100.0,100.0,0.0,25.0,19.29,53.89
+R020,王丽娟,J018,运营数据分析师,杭州阿里巴巴,Excel;Python;数据分析,SQL;AARRR;PowerPoint,Backtrader;CFA一级;MySQL;Wind;统计检验;量化策略,"技能匹配较高，共同技能包括 Excel, Python, 数据分析。
+建议补充技能：SQL, AARRR, PowerPoint，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",75.0,100.0,100.0,20.0,100.0,25.0,10.79,51.95
+R020,王丽娟,J014,全栈开发工程师,广州腾讯系创业公司,MySQL;Python,Git;React;Docker;Vue.js,Backtrader;CFA一级;Excel;Wind;数据分析;统计检验;量化策略,"技能匹配较高，共同技能包括 MySQL, Python。
+建议补充技能：Git, React, Docker, Vue.js，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",58.33,100.0,100.0,20.0,100.0,25.0,6.97,46.17
+R020,王丽娟,J002,算法工程师（机器学习）,深圳AI研究院,Python;数据分析,机器学习;TensorFlow;深度学习;PyTorch,Backtrader;CFA一级;Excel;MySQL;Wind;统计检验;量化策略,"技能匹配较高，共同技能包括 Python, 数据分析。
+建议补充技能：机器学习, TensorFlow, 深度学习, PyTorch，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",58.33,75.0,100.0,20.0,0.0,100.0,6.7,46.11
+R020,王丽娟,J009,DevOps工程师,上海蚂蚁金服,Python,Kubernetes;Linux;Docker;CI/CD;Shell,Backtrader;CFA一级;Excel;MySQL;Wind;数据分析;统计检验;量化策略,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Kubernetes, Linux, Docker, CI/CD, Shell，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,75.0,100.0,0.0,25.0,3.79,42.02
+R020,王丽娟,J004,Java开发工程师,南昌智创软件,MySQL,Git;Java;Spring Boot;Linux,Backtrader;CFA一级;Excel;Python;Wind;数据分析;统计检验;量化策略,"技能匹配较高，共同技能包括 MySQL。
+建议补充技能：Git, Java, Spring Boot, Linux，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,80.0,25.0,3.64,41.49
+R020,王丽娟,J008,产品经理（数据产品）,北京字节数据,数据分析,产品设计;SQL;PRD;Axure,Backtrader;CFA一级;Excel;MySQL;Wind;统计检验;量化策略,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：产品设计, SQL, PRD, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,3.62,41.48
+R020,王丽娟,J011,HR招聘专员,南昌智联招聘,Excel,HR系统;招聘;面试;沟通,Backtrader;CFA一级;MySQL;Python;Wind;统计检验;量化策略,"技能匹配较高，共同技能包括 Excel。
+建议补充技能：HR系统, 招聘, 面试, 沟通，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,3.48,41.46
+R021,刘子轩,J002,算法工程师（机器学习）,深圳AI研究院,PyTorch;Python;机器学习;深度学习,TensorFlow;数据分析,LaTeX;MATLAB;R;优化算法;数学建模,"技能匹配较高，共同技能包括 PyTorch, Python, 机器学习, 深度学习。
+建议补充技能：TensorFlow, 数据分析，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历略低于要求，但可考虑。",91.67,75.0,33.33,20.0,0.0,25.0,18.03,47.99
+R021,刘子轩,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,LaTeX;MATLAB;PyTorch;优化算法;数学建模;机器学习;深度学习,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,100.0,3.16,45.14
+R021,刘子轩,J019,视觉算法工程师,深圳大疆创新,PyTorch;Python;深度学习,计算机视觉;CUDA;OpenCV,LaTeX;MATLAB;R;优化算法;数学建模;机器学习,"技能匹配较高，共同技能包括 PyTorch, Python, 深度学习。
+建议补充技能：计算机视觉, CUDA, OpenCV，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历略低于要求，但可考虑。",75.0,75.0,33.33,20.0,0.0,25.0,11.67,41.71
+R021,刘子轩,J001,后端开发工程师,杭州云智科技,Python,Git;Linux;Java;SQL;Docker,LaTeX;MATLAB;PyTorch;R;优化算法;数学建模;机器学习;深度学习,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,50.0,20.0,100.0,100.0,3.4,39.19
+R021,刘子轩,J014,全栈开发工程师,广州腾讯系创业公司,Python,Git;Vue.js;React;Docker;MySQL,LaTeX;MATLAB;PyTorch;R;优化算法;数学建模;机器学习;深度学习,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,50.0,20.0,100.0,100.0,3.26,39.16
+R021,刘子轩,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,LaTeX;MATLAB;PyTorch;R;优化算法;数学建模;机器学习;深度学习,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,50.0,20.0,58.33,100.0,2.94,39.1
+R021,刘子轩,J010,UI设计师,杭州网易创意,,Sketch;Figma;用户研究;UI设计;Adobe XD,LaTeX;MATLAB;PyTorch;Python;R;优化算法;数学建模;机器学习;深度学习,"建议补充技能：Sketch, Figma, 用户研究, UI设计, Adobe XD，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,100.0,0.0,38.5
+R021,刘子轩,J012,安全工程师（渗透测试）,北京奇安信,Python,SQL注入;BurpSuite;渗透测试;Nmap;XSS,LaTeX;MATLAB;PyTorch;R;优化算法;数学建模;机器学习;深度学习,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL注入, BurpSuite, 渗透测试, Nmap, XSS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,33.33,100.0,0.0,25.0,2.93,37.68
+R021,刘子轩,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,LaTeX;MATLAB;PyTorch;R;优化算法;数学建模;机器学习;深度学习,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,50.0,20.0,100.0,25.0,3.57,36.48
+R021,刘子轩,J006,测试工程师,深圳华为外包中心,,Postman;Selenium;Linux;SQL;测试基础,LaTeX;MATLAB;PyTorch;R;优化算法;数学建模;机器学习;深度学习,"建议补充技能：Postman, Selenium, Linux, SQL, 测试基础，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,25.0,0.27,34.8
+R022,赵婉儿,J010,UI设计师,杭州网易创意,Adobe XD;Figma;Sketch;UI设计;用户研究,,Axure;UX设计;原型设计;数据分析,"技能匹配较高，共同技能包括 Adobe XD, Figma, Sketch, UI设计, 用户研究。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",100.0,100.0,100.0,100.0,100.0,100.0,32.47,71.57
+R022,赵婉儿,J003,数据分析师,上海数联科技有限公司,数据分析,Excel;SQL;可视化;Python,Adobe XD;Axure;Figma;HTML/CSS;Sketch;UI设计;UX设计;原型设计;用户研究,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：Excel, SQL, 可视化, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,100.0,4.72,45.45
+R022,赵婉儿,J018,运营数据分析师,杭州阿里巴巴,数据分析,SQL;AARRR;Python;PowerPoint;Excel,Adobe XD;Axure;Figma;HTML/CSS;Sketch;UI设计;UX设计;原型设计;用户研究,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：SQL, AARRR, Python, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,50.0,100.0,0.0,100.0,5.47,43.6
+R022,赵婉儿,J008,产品经理（数据产品）,北京字节数据,Axure;数据分析,产品设计;SQL;PRD,Adobe XD;Figma;HTML/CSS;Sketch;UI设计;UX设计;原型设计;用户研究,"技能匹配较高，共同技能包括 Axure, 数据分析。
+建议补充技能：产品设计, SQL, PRD，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",65.0,100.0,50.0,20.0,0.0,12.5,8.24,42.8
+R022,赵婉儿,J017,教育产品经理,南昌新东方在线,Axure;数据分析,SQL;在线教育;产品设计,Adobe XD;Figma;HTML/CSS;Sketch;UI设计;UX设计;原型设计;用户研究,"技能匹配较高，共同技能包括 Axure, 数据分析。
+建议补充技能：SQL, 在线教育, 产品设计，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",65.0,100.0,50.0,20.0,100.0,12.5,7.04,42.56
+R022,赵婉儿,J005,前端开发工程师,广州云栖网络,HTML/CSS,Git;Vue.js;React;JavaScript;Webpack,Adobe XD;Axure;Figma;Sketch;UI设计;UX设计;原型设计;数据分析;用户研究,"技能匹配较高，共同技能包括 HTML/CSS。
+建议补充技能：Git, Vue.js, React, JavaScript, Webpack，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,50.0,20.0,100.0,100.0,5.86,39.68
+R022,赵婉儿,J001,后端开发工程师,杭州云智科技,,Git;Linux;Java;SQL;Docker;Python,Adobe XD;Axure;Figma;HTML/CSS;Sketch;UI设计;UX设计;原型设计;数据分析;用户研究,"建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,50.0,100.0,44.44,100.0,3.65,38.23
+R022,赵婉儿,J015,供应链数据分析师,上海京东物流,数据分析,SQL;PowerBI;Excel;Python,Adobe XD;Axure;Figma;HTML/CSS;Sketch;UI设计;UX设计;原型设计;用户研究,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：SQL, PowerBI, Excel, Python，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,50.0,20.0,0.0,12.5,5.04,36.14
+R022,赵婉儿,J011,HR招聘专员,南昌智联招聘,,招聘;沟通;HR系统;Excel;面试,Adobe XD;Axure;Figma;HTML/CSS;Sketch;UI设计;UX设计;原型设计;用户研究,"建议补充技能：招聘, 沟通, HR系统, Excel, 面试，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,12.5,0.52,34.23
+R022,赵婉儿,J006,测试工程师,深圳华为外包中心,,Postman;Selenium;Linux;SQL;测试基础,Adobe XD;Axure;Figma;HTML/CSS;Sketch;UI设计;UX设计;原型设计;数据分析;用户研究,"建议补充技能：Postman, Selenium, Linux, SQL, 测试基础，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,20.0,100.0,12.5,0.13,34.15
+R023,周明远,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,MATLAB;MES;Node-RED;PLC;SCADA;工业互联网;工业机器人;边缘计算,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,100.0,3.32,45.18
+R023,周明远,J001,后端开发工程师,杭州云智科技,Python,Git;Linux;Java;SQL;Docker,MATLAB;MES;Node-RED;PLC;SCADA;工业互联网;工业机器人;边缘计算,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,3.25,44.16
+R023,周明远,J014,全栈开发工程师,广州腾讯系创业公司,Python,Git;Vue.js;React;Docker;MySQL,MATLAB;MES;Node-RED;PLC;SCADA;工业互联网;工业机器人;边缘计算,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,66.67,100.0,2.97,44.1
+R023,周明远,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,MATLAB;MES;Node-RED;PLC;SCADA;工业互联网;工业机器人;边缘计算,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,2.96,44.1
+R023,周明远,J007,嵌入式软件工程师,深圳拓疆机器人,,MCU开发;RTOS;Linux;嵌入式C;C++,MATLAB;MES;Node-RED;PLC;Python;SCADA;工业互联网;工业机器人;边缘计算,"建议补充技能：MCU开发, RTOS, Linux, 嵌入式C, C++，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,100.0,100.0,100.0,0.14,42.53
+R023,周明远,J013,机械结构工程师,深圳比亚迪工程,,材料工艺;AutoCAD;机械制图;ANSYS;SolidWorks,MES;Node-RED;Python;SCADA;工业互联网;工业机器人;边缘计算,"建议补充技能：材料工艺, AutoCAD, 机械制图, ANSYS, SolidWorks，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,100.0,100.0,100.0,0.13,42.53
+R023,周明远,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,MATLAB;MES;Node-RED;PLC;SCADA;工业互联网;工业机器人;边缘计算,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,3.18,41.4
+R023,周明远,J002,算法工程师（机器学习）,深圳AI研究院,Python,数据分析;机器学习;TensorFlow;深度学习;PyTorch,MATLAB;MES;Node-RED;PLC;SCADA;工业互联网;工业机器人;边缘计算,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, 机器学习, TensorFlow, 深度学习, PyTorch，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。
+薪资期望与岗位范围匹配良好。",41.67,75.0,100.0,100.0,100.0,25.0,3.08,40.63
+R023,周明远,J019,视觉算法工程师,深圳大疆创新,Python,计算机视觉;CUDA;深度学习;PyTorch;OpenCV,MATLAB;MES;Node-RED;PLC;SCADA;工业互联网;工业机器人;边缘计算,"技能匹配较高，共同技能包括 Python。
+建议补充技能：计算机视觉, CUDA, 深度学习, PyTorch, OpenCV，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",41.67,75.0,100.0,100.0,0.0,25.0,3.09,40.63
+R023,周明远,J009,DevOps工程师,上海蚂蚁金服,Python,Kubernetes;Linux;Docker;CI/CD;Shell,MATLAB;MES;Node-RED;PLC;SCADA;工业互联网;工业机器人;边缘计算,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Kubernetes, Linux, Docker, CI/CD, Shell，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,50.0,25.0,3.5,40.46
+R024,吴思琪,J004,Java开发工程师,南昌智创软件,Git;Java;Linux;MySQL;Spring Boot,,Axure;Python;项目管理,"技能匹配较高，共同技能包括 Git, Java, Linux, MySQL, Spring Boot。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",100.0,100.0,100.0,100.0,100.0,25.0,24.57,66.24
+R024,吴思琪,J001,后端开发工程师,杭州云智科技,Docker;Git;Java;Linux;Python,SQL,Axure;MySQL;项目管理,"技能匹配较高，共同技能包括 Docker, Git, Java, Linux, Python。
+建议补充技能：SQL，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",98.33,100.0,100.0,20.0,100.0,100.0,21.24,64.82
+R024,吴思琪,J014,全栈开发工程师,广州腾讯系创业公司,Docker;Git;MySQL;Python,React;Vue.js,Axure;Java;Linux;Redis;Spring Boot;项目管理,"技能匹配较高，共同技能包括 Docker, Git, MySQL, Python。
+建议补充技能：React, Vue.js，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",91.67,100.0,100.0,20.0,100.0,100.0,18.07,62.16
+R024,吴思琪,J009,DevOps工程师,上海蚂蚁金服,Docker;Linux;Python,Kubernetes;CI/CD;Shell,Axure;Git;Java;MySQL;Redis;Spring Boot;项目管理,"技能匹配较高，共同技能包括 Docker, Linux, Python。
+建议补充技能：Kubernetes, CI/CD, Shell，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",75.0,100.0,75.0,20.0,0.0,25.0,10.67,49.42
+R024,吴思琪,J017,教育产品经理,南昌新东方在线,Axure,SQL;数据分析;产品设计;在线教育,Docker;Git;Java;Linux;MySQL;Redis;Spring Boot;项目管理,"技能匹配较高，共同技能包括 Axure。
+建议补充技能：SQL, 数据分析, 产品设计, 在线教育，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,100.0,100.0,100.0,3.42,49.2
+R024,吴思琪,J008,产品经理（数据产品）,北京字节数据,Axure,产品设计;SQL;数据分析;PRD,Docker;Git;Java;Linux;MySQL;Redis;Spring Boot;项目管理,"技能匹配较高，共同技能包括 Axure。
+建议补充技能：产品设计, SQL, 数据分析, PRD，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,100.0,3.81,45.27
+R024,吴思琪,J007,嵌入式软件工程师,深圳拓疆机器人,Linux,RTOS;嵌入式C;C++;MCU开发,Axure;Docker;Git;Java;MySQL;Python;Redis;Spring Boot;项目管理,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：RTOS, 嵌入式C, C++, MCU开发，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,100.0,3.61,45.23
+R024,吴思琪,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,Axure;Docker;Git;Java;Linux;MySQL;Redis;Spring Boot;项目管理,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,100.0,2.97,45.1
+R024,吴思琪,J005,前端开发工程师,广州云栖网络,Git,Vue.js;React;JavaScript;Webpack;HTML/CSS,Axure;Docker;Java;Linux;MySQL;Python;Redis;Spring Boot;项目管理,"技能匹配较高，共同技能包括 Git。
+建议补充技能：Vue.js, React, JavaScript, Webpack, HTML/CSS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,3.08,44.13
+R024,吴思琪,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,Axure;Docker;Git;Java;Linux;MySQL;Redis;Spring Boot;项目管理,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,0.0,100.0,2.78,44.07
+R025,冯浩然,J016,网络安全架构师,深圳深信服,OAuth2;PKI;密码学;身份认证,网络安全;零信任,Java;Python;Spring Security;同态加密;渗透测试,"技能匹配较高，共同技能包括 OAuth2, PKI, 密码学, 身份认证。
+建议补充技能：网络安全, 零信任，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。",91.67,100.0,60.0,100.0,0.0,62.5,29.11,62.5
+R025,冯浩然,J012,安全工程师（渗透测试）,北京奇安信,Python;渗透测试,SQL注入;Nmap;BurpSuite;XSS,Java;OAuth2;PKI;Spring Security;区块链;同态加密;密码学;身份认证,"技能匹配较高，共同技能包括 Python, 渗透测试。
+建议补充技能：SQL注入, Nmap, BurpSuite, XSS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",58.33,100.0,100.0,100.0,100.0,25.0,13.14,51.4
+R025,冯浩然,J001,后端开发工程师,杭州云智科技,Java;Python,Git;SQL;Docker;Linux,OAuth2;PKI;Spring Security;区块链;同态加密;密码学;渗透测试;身份认证,"技能匹配较高，共同技能包括 Java, Python。
+建议补充技能：Git, SQL, Docker, Linux，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,20.0,25.0,25.0,9.41,46.65
+R025,冯浩然,J019,视觉算法工程师,深圳大疆创新,Python,计算机视觉;CUDA;深度学习;PyTorch;OpenCV,Java;OAuth2;PKI;Spring Security;区块链;同态加密;密码学;渗透测试;身份认证,"技能匹配较高，共同技能包括 Python。
+建议补充技能：计算机视觉, CUDA, 深度学习, PyTorch, OpenCV，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,3.24,44.16
+R025,冯浩然,J002,算法工程师（机器学习）,深圳AI研究院,Python,数据分析;机器学习;TensorFlow;深度学习;PyTorch,Java;OAuth2;PKI;Spring Security;区块链;同态加密;密码学;渗透测试;身份认证,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, 机器学习, TensorFlow, 深度学习, PyTorch，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,2.76,44.06
+R025,冯浩然,J004,Java开发工程师,南昌智创软件,Java,Git;Spring Boot;MySQL;Linux,OAuth2;PKI;Python;Spring Security;区块链;同态加密;密码学;渗透测试;身份认证,"技能匹配较高，共同技能包括 Java。
+建议补充技能：Git, Spring Boot, MySQL, Linux，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,5.92,41.94
+R025,冯浩然,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,Java;OAuth2;PKI;Spring Security;区块链;同态加密;密码学;渗透测试;身份认证,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,0.0,25.0,2.96,41.35
+R025,冯浩然,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,Java;OAuth2;PKI;Spring Security;区块链;同态加密;密码学;渗透测试;身份认证,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,25.0,25.0,2.96,41.35
+R025,冯浩然,J014,全栈开发工程师,广州腾讯系创业公司,Python,Git;Vue.js;React;Docker;MySQL,Java;OAuth2;PKI;Spring Security;区块链;同态加密;密码学;渗透测试;身份认证,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,0.0,25.0,3.59,40.48
+R025,冯浩然,J020,量化开发工程师,上海幻方量化,Python,金融数据分析;因子挖掘;Backtrader;量化策略;C++,Java;OAuth2;PKI;Spring Security;区块链;同态加密;密码学;渗透测试;身份认证,"技能匹配较高，共同技能包括 Python。
+建议补充技能：金融数据分析, 因子挖掘, Backtrader, 量化策略, C++，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,25.0,3.36,40.43
+R026,孙一凡,J003,数据分析师,上海数联科技有限公司,Excel;Python;SQL;数据分析,可视化,AARRR;CPC/CPM;PowerPoint;品牌策略;市场调研;用户增长,"技能匹配较高，共同技能包括 Excel, Python, SQL, 数据分析。
+建议补充技能：可视化，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",100.0,100.0,100.0,100.0,100.0,100.0,19.85,69.02
+R026,孙一凡,J018,运营数据分析师,杭州阿里巴巴,AARRR;Excel;PowerPoint;Python;SQL;数据分析,,CPC/CPM;品牌策略;市场调研;用户增长,"技能匹配较高，共同技能包括 AARRR, Excel, PowerPoint, Python, SQL。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。",100.0,100.0,100.0,20.0,0.0,100.0,37.52,68.59
+R026,孙一凡,J015,供应链数据分析师,上海京东物流,Excel;Python;SQL;数据分析,PowerBI,AARRR;CPC/CPM;PowerPoint;品牌策略;市场调研;用户增长,"技能匹配较高，共同技能包括 Excel, Python, SQL, 数据分析。
+建议补充技能：PowerBI，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。",100.0,100.0,100.0,100.0,0.0,12.5,18.84,64.45
+R026,孙一凡,J001,后端开发工程师,杭州云智科技,Python;SQL,Git;Java;Docker;Linux,AARRR;CPC/CPM;Excel;PowerPoint;品牌策略;市场调研;数据分析;用户增长,"技能匹配较高，共同技能包括 Python, SQL。
+建议补充技能：Git, Java, Docker, Linux，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,20.0,11.76,100.0,6.76,49.87
+R026,孙一凡,J008,产品经理（数据产品）,北京字节数据,SQL;数据分析,产品设计;PRD;Axure,AARRR;CPC/CPM;Excel;PowerPoint;品牌策略;市场调研;用户增长,"技能匹配较高，共同技能包括 SQL, 数据分析。
+建议补充技能：产品设计, PRD, Axure，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。",65.0,100.0,100.0,20.0,0.0,12.5,8.91,47.93
+R026,孙一凡,J017,教育产品经理,南昌新东方在线,SQL;数据分析,产品设计;在线教育;Axure,AARRR;CPC/CPM;Excel;PowerPoint;品牌策略;市场调研;用户增长,"技能匹配较高，共同技能包括 SQL, 数据分析。
+建议补充技能：产品设计, 在线教育, Axure，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",65.0,100.0,100.0,20.0,100.0,12.5,7.22,47.59
+R026,孙一凡,J014,全栈开发工程师,广州腾讯系创业公司,Python,Git;Vue.js;React;Docker;MySQL,AARRR;CPC/CPM;Excel;PowerPoint;SQL;品牌策略;市场调研;数据分析;用户增长,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,11.76,100.0,2.79,44.07
+R026,孙一凡,J011,HR招聘专员,南昌智联招聘,Excel,HR系统;招聘;面试;沟通,AARRR;CPC/CPM;PowerPoint;Python;SQL;品牌策略;市场调研;用户增长,"技能匹配较高，共同技能包括 Excel。
+建议补充技能：HR系统, 招聘, 面试, 沟通，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,12.5,4.23,40.98
+R026,孙一凡,J006,测试工程师,深圳华为外包中心,SQL,测试基础;Linux;Selenium;Postman,AARRR;CPC/CPM;Excel;PowerPoint;品牌策略;市场调研;数据分析;用户增长,"技能匹配较高，共同技能包括 SQL。
+建议补充技能：测试基础, Linux, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,12.5,3.67,40.87
+R026,孙一凡,J020,量化开发工程师,上海幻方量化,Python,金融数据分析;因子挖掘;Backtrader;量化策略;C++,AARRR;CPC/CPM;Excel;PowerPoint;SQL;品牌策略;市场调研;数据分析;用户增长,"技能匹配较高，共同技能包括 Python。
+建议补充技能：金融数据分析, 因子挖掘, Backtrader, 量化策略, C++，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",41.67,75.0,100.0,100.0,0.0,12.5,3.19,40.02
+R027,曹子健,J013,机械结构工程师,深圳比亚迪工程,AutoCAD,机械制图;材料工艺;SolidWorks;ANSYS,BIM;PKPM;Project;Python;Revit;工程管理;结构分析;装配式建筑,"技能匹配较高，共同技能包括 AutoCAD。
+建议补充技能：机械制图, 材料工艺, SolidWorks, ANSYS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,100.0,6.32,45.77
+R027,曹子健,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,AutoCAD;BIM;MATLAB;PKPM;Project;Revit;工程管理;结构分析;装配式建筑,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,40.0,100.0,3.58,45.23
+R027,曹子健,J014,全栈开发工程师,广州腾讯系创业公司,Python,Git;Vue.js;React;Docker;MySQL,AutoCAD;BIM;MATLAB;PKPM;Project;Revit;工程管理;结构分析;装配式建筑,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,5.01,44.51
+R027,曹子健,J001,后端开发工程师,杭州云智科技,Python,Git;Linux;Java;SQL;Docker,AutoCAD;BIM;MATLAB;PKPM;Project;Revit;工程管理;结构分析;装配式建筑,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,4.23,44.36
+R027,曹子健,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,AutoCAD;BIM;MATLAB;PKPM;Project;Revit;工程管理;结构分析;装配式建筑,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,2.77,44.06
+R027,曹子健,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,AutoCAD;BIM;MATLAB;PKPM;Project;Revit;工程管理;结构分析;装配式建筑,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,2.96,41.35
+R027,曹子健,J009,DevOps工程师,上海蚂蚁金服,Python,Kubernetes;Linux;Docker;CI/CD;Shell,AutoCAD;BIM;MATLAB;PKPM;Project;Revit;工程管理;结构分析;装配式建筑,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Kubernetes, Linux, Docker, CI/CD, Shell，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,0.0,25.0,3.8,40.52
+R027,曹子健,J012,安全工程师（渗透测试）,北京奇安信,Python,SQL注入;BurpSuite;渗透测试;Nmap;XSS,AutoCAD;BIM;MATLAB;PKPM;Project;Revit;工程管理;结构分析;装配式建筑,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL注入, BurpSuite, 渗透测试, Nmap, XSS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,44.44,25.0,3.69,40.5
+R027,曹子健,J011,HR招聘专员,南昌智联招聘,,招聘;沟通;HR系统;Excel;面试,AutoCAD;BIM;MATLAB;PKPM;Project;Python;Revit;工程管理;结构分析;装配式建筑,"建议补充技能：招聘, 沟通, HR系统, Excel, 面试，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,100.0,0.0,25.0,0.37,38.82
+R027,曹子健,J004,Java开发工程师,南昌智创软件,,Git;Linux;Spring Boot;Java;MySQL,AutoCAD;BIM;MATLAB;PKPM;Project;Python;Revit;工程管理;结构分析;装配式建筑,"建议补充技能：Git, Linux, Spring Boot, Java, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",25.0,100.0,100.0,100.0,40.0,25.0,0.32,38.81
+R028,田雨晴,J015,供应链数据分析师,上海京东物流,Python;数据分析,SQL;PowerBI;Excel,DeepMind;Linux;R;TensorFlow;临床数据分析;医学图像处理;统计学,"技能匹配较高，共同技能包括 Python, 数据分析。
+建议补充技能：SQL, PowerBI, Excel，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",65.0,100.0,100.0,100.0,100.0,25.0,8.89,52.55
+R028,田雨晴,J003,数据分析师,上海数联科技有限公司,Python;数据分析,Excel;SQL;可视化,DeepMind;Linux;TensorFlow;临床数据分析;医学图像处理,"技能匹配较高，共同技能包括 Python, 数据分析。
+建议补充技能：Excel, SQL, 可视化，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",65.0,100.0,100.0,100.0,100.0,25.0,8.5,52.47
+R028,田雨晴,J002,算法工程师（机器学习）,深圳AI研究院,Python;TensorFlow;数据分析,机器学习;深度学习;PyTorch,DeepMind;Linux;R;临床数据分析;医学图像处理;统计学,"技能匹配较高，共同技能包括 Python, TensorFlow, 数据分析。
+建议补充技能：机器学习, 深度学习, PyTorch，以提高岗位竞争力。
+技能基本匹配，部分要求略有差距。
+学历略低于要求，但可考虑。",75.0,75.0,66.67,20.0,0.0,100.0,12.17,48.89
+R028,田雨晴,J018,运营数据分析师,杭州阿里巴巴,Python;数据分析,Excel;SQL;AARRR;PowerPoint,DeepMind;Linux;R;TensorFlow;临床数据分析;医学图像处理;统计学,"技能匹配较高，共同技能包括 Python, 数据分析。
+建议补充技能：Excel, SQL, AARRR, PowerPoint，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",58.33,100.0,100.0,20.0,100.0,25.0,8.0,46.37
+R028,田雨晴,J001,后端开发工程师,杭州云智科技,Linux;Python,Git;Java;SQL;Docker,DeepMind;R;TensorFlow;临床数据分析;医学图像处理;数据分析;统计学,"技能匹配较高，共同技能包括 Linux, Python。
+建议补充技能：Git, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",58.33,100.0,100.0,20.0,100.0,25.0,7.33,46.24
+R028,田雨晴,J009,DevOps工程师,上海蚂蚁金服,Linux;Python,Kubernetes;Docker;CI/CD;Shell,DeepMind;R;TensorFlow;临床数据分析;医学图像处理;数据分析;统计学,"技能匹配较高，共同技能包括 Linux, Python。
+建议补充技能：Kubernetes, Docker, CI/CD, Shell，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,50.0,100.0,0.0,25.0,6.81,45.14
+R028,田雨晴,J008,产品经理（数据产品）,北京字节数据,数据分析,产品设计;SQL;PRD;Axure,DeepMind;Linux;R;TensorFlow;临床数据分析;医学图像处理;统计学,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：产品设计, SQL, PRD, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,23.08,25.0,5.41,41.84
+R028,田雨晴,J006,测试工程师,深圳华为外包中心,Linux,测试基础;SQL;Selenium;Postman,DeepMind;R;TensorFlow;临床数据分析;医学图像处理;数据分析;统计学,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：测试基础, SQL, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,3.95,41.55
+R028,田雨晴,J017,教育产品经理,南昌新东方在线,数据分析,产品设计;SQL;在线教育;Axure,DeepMind;Linux;R;TensorFlow;临床数据分析;医学图像处理;统计学,"技能匹配较高，共同技能包括 数据分析。
+建议补充技能：产品设计, SQL, 在线教育, Axure，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,3.72,41.51
+R028,田雨晴,J004,Java开发工程师,南昌智创软件,Linux,Git;Java;MySQL;Spring Boot,DeepMind;Python;R;TensorFlow;临床数据分析;医学图像处理;数据分析;统计学,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：Git, Java, MySQL, Spring Boot，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,3.64,41.49
+R029,韩志远,J007,嵌入式软件工程师,深圳拓疆机器人,C++;Linux;嵌入式C,RTOS;MCU开发,PID;Python;Qt;激光雷达;运动控制,"技能匹配较高，共同技能包括 C++, Linux, 嵌入式C。
+建议补充技能：RTOS, MCU开发，以提高岗位竞争力。
+核心技能与岗位高度匹配，适合推荐。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",85.0,100.0,100.0,100.0,100.0,100.0,13.68,63.27
+R029,韩志远,J001,后端开发工程师,杭州云智科技,Linux;Python,Git;Java;SQL;Docker,C++;PID;Qt;ROS;SLAM;嵌入式C;激光雷达;运动控制,"技能匹配较高，共同技能包括 Linux, Python。
+建议补充技能：Git, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",58.33,100.0,100.0,20.0,100.0,100.0,6.05,49.73
+R029,韩志远,J009,DevOps工程师,上海蚂蚁金服,Linux;Python,Kubernetes;Docker;CI/CD;Shell,C++;PID;Qt;ROS;SLAM;嵌入式C;激光雷达;运动控制,"技能匹配较高，共同技能包括 Linux, Python。
+建议补充技能：Kubernetes, Docker, CI/CD, Shell，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,100.0,20.0,21.05,12.5,6.02,45.35
+R029,韩志远,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,C++;Linux;PID;Qt;ROS;SLAM;嵌入式C;激光雷达;运动控制,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,20.0,20.0,100.0,2.95,45.1
+R029,韩志远,J006,测试工程师,深圳华为外包中心,Linux,测试基础;SQL;Selenium;Postman,C++;PID;Qt;ROS;SLAM;嵌入式C;激光雷达;运动控制,"技能匹配较高，共同技能包括 Linux。
+建议补充技能：测试基础, SQL, Selenium, Postman，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",45.0,100.0,100.0,100.0,0.0,12.5,3.06,44.75
+R029,韩志远,J014,全栈开发工程师,广州腾讯系创业公司,Python,Git;Vue.js;React;Docker;MySQL,C++;Linux;PID;Qt;ROS;SLAM;嵌入式C;激光雷达;运动控制,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",41.67,100.0,100.0,20.0,83.33,100.0,2.77,44.06
+R029,韩志远,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,C++;Linux;PID;Qt;ROS;SLAM;嵌入式C;激光雷达;运动控制,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,100.0,2.76,44.06
+R029,韩志远,J013,机械结构工程师,深圳比亚迪工程,,材料工艺;AutoCAD;机械制图;ANSYS;SolidWorks,C++;Linux;PID;Python;Qt;ROS;SLAM;嵌入式C;激光雷达;运动控制,"建议补充技能：材料工艺, AutoCAD, 机械制图, ANSYS, SolidWorks，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,100.0,100.0,100.0,1.12,42.72
+R029,韩志远,J020,量化开发工程师,上海幻方量化,C++;Python,金融数据分析;Backtrader;量化策略;因子挖掘,Linux;PID;Qt;ROS;SLAM;嵌入式C;激光雷达;运动控制,"技能匹配较高，共同技能包括 C++, Python。
+建议补充技能：金融数据分析, Backtrader, 量化策略, 因子挖掘，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",58.33,75.0,100.0,20.0,73.68,12.5,5.81,41.56
+R029,韩志远,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,C++;Linux;PID;Qt;ROS;SLAM;嵌入式C;激光雷达;运动控制,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,12.5,3.42,40.82
+R030,胡晓敏,J012,安全工程师（渗透测试）,北京奇安信,Python;渗透测试,SQL注入;Nmap;BurpSuite;XSS,Android安全;Frida;Xposed;取证分析;安全加固;恶意软件分析,"技能匹配较高，共同技能包括 Python, 渗透测试。
+建议补充技能：SQL注入, Nmap, BurpSuite, XSS，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。",58.33,100.0,66.67,20.0,0.0,62.5,14.83,46.28
+R030,胡晓敏,J014,全栈开发工程师,广州腾讯系创业公司,Python,Git;Vue.js;React;Docker;MySQL,Android安全;CVE;Frida;Xposed;取证分析;安全加固;恶意软件分析;渗透测试;逆向工程,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Vue.js, React, Docker, MySQL，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,100.0,100.0,25.0,3.34,44.43
+R030,胡晓敏,J003,数据分析师,上海数联科技有限公司,Python,Excel;SQL;数据分析;可视化,Android安全;CVE;Frida;Xposed;取证分析;安全加固;恶意软件分析;渗透测试;逆向工程,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Excel, SQL, 数据分析, 可视化，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,3.44,41.45
+R030,胡晓敏,J015,供应链数据分析师,上海京东物流,Python,SQL;数据分析;Excel;PowerBI,Android安全;CVE;Frida;Xposed;取证分析;安全加固;恶意软件分析;渗透测试;逆向工程,"技能匹配较高，共同技能包括 Python。
+建议补充技能：SQL, 数据分析, Excel, PowerBI，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",45.0,100.0,100.0,20.0,100.0,25.0,2.96,41.35
+R030,胡晓敏,J001,后端开发工程师,杭州云智科技,Python,Git;Linux;Java;SQL;Docker,Android安全;CVE;Frida;Xposed;取证分析;安全加固;恶意软件分析;渗透测试;逆向工程,"技能匹配较高，共同技能包括 Python。
+建议补充技能：Git, Linux, Java, SQL, Docker，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,25.0,3.8,40.52
+R030,胡晓敏,J018,运营数据分析师,杭州阿里巴巴,Python,数据分析;SQL;AARRR;PowerPoint;Excel,Android安全;CVE;Frida;Xposed;取证分析;安全加固;恶意软件分析;渗透测试;逆向工程,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, SQL, AARRR, PowerPoint, Excel，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",41.67,100.0,100.0,20.0,100.0,25.0,2.77,40.31
+R030,胡晓敏,J005,前端开发工程师,广州云栖网络,,Git;Vue.js;React;JavaScript;Webpack;HTML/CSS,Android安全;CVE;Frida;Python;Xposed;取证分析;安全加固;恶意软件分析;渗透测试;逆向工程,"建议补充技能：Git, Vue.js, React, JavaScript, Webpack，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历满足岗位要求。
+薪资期望与岗位范围匹配良好。",25.0,100.0,100.0,100.0,100.0,25.0,1.33,39.02
+R030,胡晓敏,J002,算法工程师（机器学习）,深圳AI研究院,Python,数据分析;机器学习;TensorFlow;深度学习;PyTorch,Android安全;CVE;Frida;Xposed;取证分析;安全加固;恶意软件分析;渗透测试;逆向工程,"技能匹配较高，共同技能包括 Python。
+建议补充技能：数据分析, 机器学习, TensorFlow, 深度学习, PyTorch，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",41.67,75.0,66.67,20.0,0.0,100.0,2.76,36.98
+R030,胡晓敏,J019,视觉算法工程师,深圳大疆创新,Python,计算机视觉;CUDA;深度学习;PyTorch;OpenCV,Android安全;CVE;Frida;Xposed;取证分析;安全加固;恶意软件分析;渗透测试;逆向工程,"技能匹配较高，共同技能包括 Python。
+建议补充技能：计算机视觉, CUDA, 深度学习, PyTorch, OpenCV，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",41.67,75.0,66.67,20.0,0.0,100.0,2.77,36.98
+R030,胡晓敏,J020,量化开发工程师,上海幻方量化,Python,金融数据分析;因子挖掘;Backtrader;量化策略;C++,Android安全;CVE;Frida;Xposed;取证分析;安全加固;恶意软件分析;渗透测试;逆向工程,"技能匹配较高，共同技能包括 Python。
+建议补充技能：金融数据分析, 因子挖掘, Backtrader, 量化策略, C++，以提高岗位竞争力。
+技能匹配度较低，建议优先提升相关技能。
+学历略低于要求，但可考虑。",41.67,75.0,100.0,20.0,0.0,25.0,2.77,36.56

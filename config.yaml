@@ -1,0 +1,32 @@
+weights:
+  skill: 0.30
+  tfidf: 0.20
+  jaccard: 0.15
+  education: 0.15
+  experience: 0.10
+  city: 0.05
+  certificate: 0.05
+
+semantic_weights:
+  tfidf: 0.6
+  jaccard: 0.4
+
+paths:
+  data_dir: "data"
+  output_dir: "output"
+  top_n: 5
+
+hdfs:
+  base: "/resume_matching"
+  raw: "/resume_matching/raw_data"
+  cleaned: "/resume_matching/cleaned_data"
+  results: "/resume_matching/results"
+
+spark:
+  master: "local[*]"
+  driver_memory: "2g"
+  executor_memory: "2g"
+
+salary_match:
+  underpay_penalty_per_10pct: 50
+  overpay_penalty_per_10pct: 30
